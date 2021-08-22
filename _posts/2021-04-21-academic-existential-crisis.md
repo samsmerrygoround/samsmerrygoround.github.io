@@ -15,7 +15,7 @@ tags:
 没想到老板居然在视频对面笑出了声LOL。接着她说，yep, welcome to research, welcome to the rest of your life!
 
 看到她这样的反应，我好像也突然放松了下来。老板说，学术界就是这样的，没有人再能够告诉你确切的答案，我们都在不停犯错，不停怀疑自己。你永远有学不完的知识，你的每一篇paper都会有漏洞，这样的建立再推翻是永无止境的。你不会停止摔跤。You just fall further and harder, and fancier (referring to the meme we shared between us) :slight_smile: 有点吓人，是吗？
-![fall-fancier](https://github.com/samsmerrygoround/samsmerrygoround.github.io/blob/main/assets/images/fall-fancier.jpeg)
+![fall-fancier](https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/fall-fancier.jpeg)
 
 但是你不要为了一点小错误就全盘否定自己。 I’m pretty sure it’s not true that you don’t know how to measure anything. And you should be proud of your master’s project! We all just need to be open and have the courage to publicly make mistakes. And collaborate! You are 35% correct about something, and I might be 50% correct about something else (because I have been doing this longer), so together we might be 60% correct. That’s how we build science.
 
