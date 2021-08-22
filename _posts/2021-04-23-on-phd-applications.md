@@ -3,7 +3,7 @@ title: 两轮博士申请+招RA，我学到了什么
 date: 2021-04-23T15:00:00-04:00
 last_modified_at: 2021-04-23T15:00:00-04:00
 tags:
-  - psych
+  - 心理日常
 ---
 
 Disclaimer: 本贴不是经验贴，是鼓励贴。
