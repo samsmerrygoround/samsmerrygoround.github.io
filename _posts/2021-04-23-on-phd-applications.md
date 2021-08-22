@@ -4,6 +4,7 @@ last_modified_at: 2021-04-23T15:00:00-04:00
 categories:
   - psych
 tags:
+  - psych
   - daily
 ---
 
