@@ -26,7 +26,9 @@ titles:
 key: page-about
 ---
 
-欢迎来到我的博客。我是一个[心理学研究者](https://samxshang.github.io/) 。 我在这里记录我的读博日常，年终总结，以及生活感悟。
+欢迎来到我的博客。我是一个[心理学研究者](https://samxshang.github.io/)。 
+
+我在这里记录我的读博日常，年终总结，以及生活感悟。
 
 ## credits
 <div>Website icon made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
