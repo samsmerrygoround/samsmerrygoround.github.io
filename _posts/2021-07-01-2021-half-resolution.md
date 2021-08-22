@@ -8,6 +8,8 @@ tags:
 
 我是一个很喜欢做季度总结的人，也很喜欢reflect on life。但是一直没有找到很喜欢的结构化的reflection模板。前几天灵光乍现，设计出一套新的模板，也就是借用西方婚礼的习俗进行生活总结：Something old, something new, something borrowed, something blue, and a silver sixpence in her shoe.
 
+<!--more-->
+
 灵感的来源是偶尔看到有人说“新娘结婚时是女人一生中最美的时刻”，我对此颇为不以为然。所以借用婚礼传统的结构进行self-reflection，想要强调女性的自主性，如果我们愿意，女人的每一天都可以是一生中最美的时刻。新娘也是婚礼仪式中全场目光的聚焦，而我也想借此提醒自己，我就是我人生中永远的主角，要学会欣赏自己、爱自己。
 
 ## 1 Something old
