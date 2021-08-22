@@ -56,7 +56,7 @@ author:
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: user_name/repo_name
-repository_tree: master
+repository_tree: main
 
 
 ## => Paths
@@ -223,3 +223,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
