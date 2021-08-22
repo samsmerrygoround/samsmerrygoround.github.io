@@ -1,5 +1,6 @@
 ---
 title: 两轮博士申请+招RA，我学到了什么
+date: 2021-04-23T15:00:00-04:00
 last_modified_at: 2021-04-23T15:00:00-04:00
 categories:
   - psych

@@ -1,6 +1,8 @@
 ---
 title: Post with Header Image
-tags: TeXt
+date: 2021-05-23T15:00:00-04:00
+tags: 
+  - TeXt
 article_header:
   type: cover
   image:
