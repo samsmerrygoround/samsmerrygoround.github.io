@@ -18,7 +18,7 @@ tags:
 
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/fall-fancier.jpeg" alt="fall-fancier" width="350"/>
 
-但是你不要为了一点小错误就全盘否定自己。 I’m pretty sure it’s not true that you don’t know how to measure anything. And you should be proud of your master’s project! We all just need to be open and have the courage to publicly make mistakes. And collaborate! You are 35% correct about something, and I might be 50% correct about something else (because I have been doing this longer), so together we might be 60% correct. That’s how we build science.
+**但是你不要为了一点小错误就全盘否定自己。** I’m pretty sure it’s not true that you don’t know how to measure anything. And you should be proud of your master’s project! We all just need to be open and have the courage to publicly make mistakes. **And collaborate!** You are 35% correct about something, and I might be 50% correct about something else (because I have been doing this longer), so together we might be 60% correct. That’s how we build science.
 
 And next time when you have the chance to review a paper, remember today’s you, and remember the person behind the paper is another you or me. Yes their work won’t be perfect, but be nice about it when you point it out, and don’t dismiss their work entirely just because a small non-optimal measurement choice. Because they are, like you, just trying to do their best.
 
