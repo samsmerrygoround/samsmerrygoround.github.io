@@ -93,7 +93,6 @@ toc_sticky: false
 ---
 
 参考资料/推荐阅读：
-Blog post: 
 - [What I Wish I Knew Before Starting Grad School](https://www.insidehighered.com/advice/2018/10/31/advice-about-grad-school-phd-holder-looking-back-decade-later-opinion) By Vanessa R. Corcoran
 - [Five Things I Wish I Started Doing from Day 1 of My PhD](https://medium.com/@meilinzhan/five-things-i-wish-i-started-doing-from-day-1-of-my-phd-f06a37b12903)
 - [Obsidian cross-platform syncing](https://forum.obsidian.md/t/how-do-i-work-with-obsidian-on-mobile/471)
