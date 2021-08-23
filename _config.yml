@@ -211,6 +211,7 @@ defaults:
       license: true
       aside:
         toc: true
+        toc_sticky: false
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
