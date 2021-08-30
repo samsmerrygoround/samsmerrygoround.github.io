@@ -4,6 +4,8 @@ date: 2021-04-23T15:00:00-04:00
 last_modified_at: 2021-04-23T15:00:00-04:00
 tags:
   - 心理日常
+toc: true
+toc_sticky: false
 ---
 
 Disclaimer: 本贴不是经验贴，是鼓励贴。

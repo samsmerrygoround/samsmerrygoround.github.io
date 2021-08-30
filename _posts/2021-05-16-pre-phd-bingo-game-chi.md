@@ -4,6 +4,8 @@ date: 2021-05-16T12:00:02-04:00
 last_modified_at: 2021-05-30T12:00:02-04:00
 tags:
   - 读博预备役
+toc: true
+toc_sticky: false
 ---
 
 博士项目开始前，我做了以下25项准备。

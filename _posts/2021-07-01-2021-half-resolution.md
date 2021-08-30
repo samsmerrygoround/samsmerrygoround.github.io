@@ -4,6 +4,8 @@ date: 2021-07-01T17:00:00-04:00
 last_modified_at: 2021-07-01T17:00:00-04:00
 tags:
   - 年终总结
+toc: true
+toc_sticky: false
 ---
 
 我是一个很喜欢做季度总结的人，也很喜欢reflect on life。但是一直没有找到很喜欢的结构化的reflection模板。前几天灵光乍现，设计出一套新的模板，也就是借用西方婚礼的习俗进行生活总结：Something old, something new, something borrowed, something blue, and a silver sixpence in her shoe.

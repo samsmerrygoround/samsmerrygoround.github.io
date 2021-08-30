@@ -4,6 +4,8 @@ date: 2015-08-28T15:00:00-04:00
 last_modified_at: 2015-08-28T15:00:00-04:00
 tags:
   - 书影乐播
+toc: true
+toc_sticky: false
 ---
 
 又看了一部分删节版，的确还是1991版的好看。

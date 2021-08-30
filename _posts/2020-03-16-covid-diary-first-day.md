@@ -4,6 +4,8 @@ date: 2020-03-16T15:00:00-04:00
 last_modified_at: 2020-03-16T15:00:00-04:00
 tags:
   - 疫情日记
+toc: true
+toc_sticky: false
 ---
 
 本周是春假后校园停止活动的第一周。

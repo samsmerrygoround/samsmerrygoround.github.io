@@ -4,6 +4,8 @@ date: 2021-08-16T15:00:00-04:00
 last_modified_at: 2021-08-16T15:00:00-04:00
 tags:
   - 心理日常
+toc: true
+toc_sticky: false
 ---
 
 Grad school真的是everyday struggle，我的新学期还没开始，struggle就已经开始了。
