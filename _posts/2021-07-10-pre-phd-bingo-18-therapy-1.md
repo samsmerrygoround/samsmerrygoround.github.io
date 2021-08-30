@@ -1,5 +1,5 @@
 ---
-title: Pre-PHD BINGO - Day 18 心理咨询的重要性
+title: Pre-PHD BINGO - Day 18 Part 1 心理咨询的重要性
 date: 2021-07-10T12:00:02-04:00
 last_modified_at: 2021-07-10T12:00:02-04:00
 tags:
