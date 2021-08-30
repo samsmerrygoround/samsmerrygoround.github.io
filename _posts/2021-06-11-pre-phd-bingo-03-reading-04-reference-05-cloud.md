@@ -43,16 +43,17 @@ toc_sticky: false
 
 -   第一步，像我上面提到的，每篇文献我会建立一个单独的笔记卡片，标题为Author, Year（in-text citation的格式）。在这个笔记卡片上，我会总结这篇文献的内容和我的想法。我还会在这个笔记卡片上用”#"记录本篇文献的关键词。
 <br> 
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/obsidian-1.png" alt="obsidian-1" width="800"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/obsidian-1.png" alt="obsidian-1" width="690"/>
 <br> 
 -   第二步，比如我现在要进行文献综述。我会为这篇文献综述建立一个新的笔记卡片。在这篇文献综述里，我会用双方括号来引用某一篇具体的文献。这样我Ctrl+单击双括号以内的文献标题，就可以看到我在引用哪一篇文献、关于那篇文献我都记了哪些笔记。
 <br> 
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/obsidian-2.png" alt="obsidian-2" width="800"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/obsidian-2.png" alt="obsidian-2" width="690"/>
 <br> 
 -   第三步，当然是Obsidian最强大的graph view了。在这个界面就可以看到哪些文献彼此之间有关联，这些文献和哪些关键词有关联。
 <br> 
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/obsidian-3.jpeg" alt="obsidian-3" width="800"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/obsidian-3.jpeg" alt="obsidian-3" width="690"/>
 <br> 
+
 # 其他本地与云端同步
 
 上面提到的主要是我的文献和文献笔记的同步。其他非常需要同步备份的文件应该就是在写的paper和统计的code。Version control最强大的肯定是GitHub啦，所以paper和code我都会在GitHub上备份；其他相关的文件（比如data files和实验材料），per IRB regulation，不能随意上传公开平台的，我会在Google Drive上进行备份。
