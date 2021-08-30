@@ -52,7 +52,7 @@ toc_sticky: false
 ### 方法一
 
 1.  在GitHub上建立一个新 Repository，Repository name 如下：`username.github.io`。  
-<br/>
+<br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/web-git-repo.png" alt="git-repo" width="690"/>
 （截图来自[官网](https://pages.github.com/)）
 2.  在 GitHub Desktop 里选择 clone the repository：  
