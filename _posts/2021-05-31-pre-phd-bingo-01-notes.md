@@ -1,5 +1,5 @@
 ---
-title: Pre-PHD BINGO - Day 1: 设计一套笔记模板
+title: Pre-PHD BINGO - Day 1 设计一套笔记模板
 date: 2021-05-31T12:00:02-04:00
 last_modified_at: 2021-05-31T12:00:02-04:00
 tags:
