@@ -36,42 +36,47 @@ P.S. Sit-notes命名的灵感来源于sitcome；即situational notes
 
 # 我的Notion system
 
-### Lab, ideas, and resource：包括三部分内容
+### Lab, ideas, and resource
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-1.png" alt="notion-1" width="300"/>
 <br>
+包括三部分内容：
 1.  我们lab的成员信息（在Day12：熟悉实验室成员时我会对这个板块进行更多介绍）
 2.  research ideas：记录一些临时的灵感，但是暂时还没有形成project的研究想法
 3.  resources：以color coding的形式储存我认为有长期价值的资料
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-2.png" alt="notion-2" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-2.png" alt="notion-2" width="550"/>
  
-### Planner：这一部分既是我的研究规划，也是我的研究进度笔记
+### Planner
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-3.png" alt="notion-3" width="300"/>
+这一部分既是我的研究规划，也是我的研究进度笔记：
 
 #### Projects
 项目列表以时间线的方式呈现，每个项目是一个单独的page。
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-4.jpeg" alt="notion-4" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-4.jpeg" alt="notion-4" width="550"/>
 #### To-do notes
 这一部分的笔记以不同的视角呈现而实现不同功能：
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-5.png" alt="notion-5" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-5.png" alt="notion-5" width="400"/>
 <br>
 1. monthly to-do view
+<br>
 日历视角，作为月计划。比如我已经把pre-phd bingo game的项目添加到了我的日历上，按计划进行。
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-6.png" alt="notion-6" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-6.png" alt="notion-6" width="550"/>
 <br>
 2. today to-do view
+<br>
 列表视角，作为日计划。
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-7.png" alt="notion-7" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-7.png" alt="notion-7" width="550"/>
 <br>
 我在本视角上添加了filter，呈现的是规划今天完成的任务，以及规划之前完成但其实还没做完的任务。换句话说，昨天没做完的任务会自动累积到今天的任务清单上。
 <br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-8.png" alt="notion-8" width="500"/>
 <br>
 3. meeting notes view
+<br>
 表格视角，筛选出meeting notes。本视角的好处是可以先在日历视角上添加一个任务，规划哪天要开会；然后开完会直接在会议任务的页面上总结会议笔记。
 <br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-9.png" alt="notion-9" width="600"/>
@@ -81,6 +86,7 @@ P.S. Sit-notes命名的灵感来源于sitcome；即situational notes
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-10.png" alt="notion-10" width="500"/>
 <br>
 4. research notes view
+<br>
 与meeting notes同理，以表格视角筛选出和研究相关的笔记，然后链接到具体的研究项目上。就可以看到关于这个项目我做了哪些工作，是在哪天完成的。
 
 ---
