@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "3d0d727e0e142cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "117d1ce571ba3766",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-08-30-the-one-with-the-prep.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44992e16f8a57477",
+    "type": "split",
+    "children": [
+      {
+        "id": "942fbb4362c0e725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a6720d4d4684bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58edeae4ca262747",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "319c7b368319d0b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45549026f5b084d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a910592c9a6743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2021-08-30-the-one-with-the-prep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "117d1ce571ba3766",
+  "lastOpenFiles": [
+    "_posts/2021-08-30-the-one-with-the-prep.md",
+    "_posts/2021-08-16-on-fear-of-underperformance.md",
+    "_posts/2021-07-01-2021-half-resolution.md",
+    "_posts/2021-07-31-5k-training.md",
+    "_posts/2020-12-12-2020-resolution.md",
+    "_posts/2020-12-11-wish-i-knew-pre-grad-school.md",
+    "_posts/2020-03-16-covid-diary-first-day.md",
+    "_posts/2017-03-24-book-the-god-themselves.md",
+    "_posts/2015-08-28-book-chao-xin-xing.md"
+  ]
+}
