@@ -1,7 +1,7 @@
 ---
 title: Pre-PHD BINGO - Day 13-15 熟悉院系，同学，和本地的其他学者
-date: 2021-06-21T12:00:02-04:00
-last_modified_at: 2021-06-21T12:00:02-04:00
+date: 2021-06-27T12:00:02-04:00
+last_modified_at: 2021-06-27T12:00:02-04:00
 tags:
   - 读博预备役
 toc: true
