@@ -1,7 +1,7 @@
 ---
 title: Pre-PHD BINGO Game 一起为读博做准备吧
 date: 2021-05-16T12:00:02-04:00
-last_modified_at: 2021-05-30T12:00:02-04:00
+last_modified_at: 2021-08-01T12:00:02-04:00
 tags:
   - 读博预备役
 toc: true
