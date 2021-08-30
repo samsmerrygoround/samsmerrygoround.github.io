@@ -22,6 +22,14 @@ toc_sticky: false
 不知道大家都是用什么爱好来帮助自己不要精神崩溃的呢？
 
 {% comment %}
+蛋蛋的主人：积极建立属于自己的support system，推荐之前在NCFDD上找到的[Mentor Maps 2019 Filliable.pdf](https://womenoverseas.com/uploads/short-url/89hwqOLUWyWiUAcOIDxe83N4N8S.pdf) (57.0 KB) 。
 
+这一份工具箱也值得参考，主要是针对Humanities PhDs的：[Doctoral-Student-Career-Planning-May-2018.pdf](https://womenoverseas.com/uploads/short-url/sCoJlSqt1dXie31DaulVg8HQVSE.pdf) (1.2 MB)。
+
+这阵子还发现很有帮助的几个播客：Papa PhD（每期基本上都会采访有读博经历的朋友，带来非常多的经验分享，国际化，更新频率高，干货满满）、PhD: Addicted to Research（英国Society for the Study of Addiction资助的播客）、PhD Futures Now!（主要针对的是humanities PhDs）、Personal Finance for PhD（内容如其名）
+
+Sam: 经过蛋蛋的启发我又去网上搜索了更多关于mentoring的信息，找到了两份adapted from NCFDD mentor map、更适合grad students的maps，也在这里链接一下~
+-   [My mentoring network](https://advance.cc.lehigh.edu/sites/advance.cc.lehigh.edu/files/MENTORNETWORKMAP.pdf)
+-   [Graduate Student Mentoring Guide](https://rackham.umich.edu/downloads/student-mentoring-handbook.pdf)
 
 {% endcomment %}
