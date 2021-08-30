@@ -43,6 +43,7 @@ toc_sticky: false
 1.  你需要有一个 [GitHub](https://github.com/) 账号。用户名会成为你网站域名的一部分（最后网站的域名是 `username.github.io`），所以需要谨慎选择用户名。
 2.  下载安装 [Git](https://git-scm.com/downloads)，下载安装 [GitHub Desktop](https://desktop.github.com/)。
 3.  找到一个你喜欢的免费 `Jekyll` 主题：[Jekyll Themes](https://jekyllthemes.io/)。我选中的是[”Minimal Mistakes“](https://jekyllthemes.io/theme/minimal-mistakes)。点进你选择的主题，点击Get it on GitHub，把跳转的网站放在那里备着。
+<br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/web-minimal-mistake.jpeg" alt="minimal-mistake" width="400"/>
     
 ## 使用主题
@@ -54,14 +55,21 @@ toc_sticky: false
 1.  在GitHub上建立一个新 Repository，Repository name 如下：`username.github.io`。  
 <br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/web-git-repo.png" alt="git-repo" width="690"/>
+<br>
 （截图来自[官网](https://pages.github.com/)）
-2.  在 GitHub Desktop 里选择 clone the repository：  
+2.  在 GitHub Desktop 里选择 clone the repository：
+<br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/web-git-desktop.png" alt="clone-repo" width="400"/>
-3.  在你选中主题的 repository 网页上选择 Download ZIP：  
+<br>
+3.  在你选中主题的 repository 网页上选择 Download ZIP：
+<br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/web-zip.png" alt="git-repo" width="690"/>
+<br>
 4.  下载后在本地解压，然后把整个文件夹里的内容复制到你自己本地的 repository folder 里面。
 5.  在 GitHub Desktop 里选中所有文件，先 Commit，然后 Push：  
+<br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/web-commit.jpeg" alt="git-commit" width="690"/>
+<br>
 （截图来自[官网](https://pages.github.com/)）
 6.  天哪！你的网站上线了！查看你的网址：**https:// _username_ .github.io**  
     （当然现在还是别人网站的状态，后面我会提到如何更改网站的设置，把网站变成自己的信息。）
@@ -69,7 +77,9 @@ toc_sticky: false
 ### 方法二
 
 1.  Fork 主题的 Repository：  
+<br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/web-fork.png" alt="fork-repo" width="690"/>
+<br>
 2.  点击 “Settings”，把 Repository name 改成：`username.github.io`
 3.  天哪！你的网站上线了！查看你的网址：**https:// _username_ .github.io**
 4.  当然现在还是别人网站的状态，为了更改网站的文件，你需要先把网站文件同步到本地。在 GitHub Desktop 里选择 clone the repository，然后 Fetch Origin。
