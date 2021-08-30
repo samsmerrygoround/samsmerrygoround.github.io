@@ -31,12 +31,12 @@ toc_sticky: false
 
 首先LaTeX有一点优势是可以嵌套，所以更换版块顺序、隐藏某个版块就很方便，比如我可以先在CV上加入Publication这一版块，然后用%先变成comment不打印出来：
 <br> 
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/cv-1.png" alt="cv-1" width="690"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/cv-1.png" alt="cv-1" width="400"/>
 <br>
 
 还有不同阶段的CV可能想要放不同内容。我过去是选择直接在新CV上删掉相应部分，但是后来突然又想找那部分信息，就要回去翻好几版CV…使用LaTeX就给了自己绝对的自由，不想放出来的内容就可以comment掉。以我自己的CV为例：
 <br> 
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/cv-2.jpeg" alt="cv-2" width="690"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/cv-2.jpeg" alt="cv-2" width="1400"/>
 <br>
 
 因为Research Position里具体的工作职责并非我CV的重点，但是以后改Resume时可能会用到。所以我就在对应的职位下先把工作职责列出来（左侧视角），但是正式CV里并没有把这部分内容放出来（右侧视角）。
