@@ -1,7 +1,7 @@
 ---
 title: Pre-PHD BINGO - Day 8 查找并加入3个领域内的学术组织
-date: 2021-06-14T12:00:02-04:00
-last_modified_at: 2021-06-14T12:00:02-04:00
+date: 2021-06-15T12:00:02-04:00
+last_modified_at: 2021-06-15T12:00:02-04:00
 tags:
   - 读博预备役
 toc: true
