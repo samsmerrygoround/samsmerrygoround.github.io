@@ -16,56 +16,56 @@ toc_sticky: false
 
 ![BINGO card 使用指南](https://raw.githubusercontent.com/samxshang/sharing_lib/main/pre_phd/bingo_instru.png)
 
-1. Day 0: 前言
+1. [Day 0: 前言](https://samsmerrygoround.github.io/2021/05/30/pre-phd-bingo-00-preface.html)
 
 # 学术系统 Academic System (6)
 
-1. Day 1: 设计一套笔记模板
-2. Day 2: 设计写作模板
-3. Day 3: 建立文献阅读习惯
-4. Day 4: 建立文献管理系统
-5. Day 5: 建立本地文档与云端的自动同步和备份
-6. Day 6: 建立邮件系统
+1. [Day 1: 设计一套笔记模板](https://samsmerrygoround.github.io/2021/05/31/pre-phd-bingo-01-notes.html)
+2. [Day 2: 设计写作模板](https://samsmerrygoround.github.io/2021/06/07/pre-phd-bingo-02-writing.html)
+3. [Day 3: 建立文献阅读习惯](https://samsmerrygoround.github.io/2021/06/11/pre-phd-bingo-03-reading-04-reference-05-cloud.html)
+4. [Day 4: 建立文献管理系统](https://samsmerrygoround.github.io/2021/06/11/pre-phd-bingo-03-reading-04-reference-05-cloud.html)
+5. [Day 5: 建立本地文档与云端的自动同步和备份](https://samsmerrygoround.github.io/2021/06/11/pre-phd-bingo-03-reading-04-reference-05-cloud.html)
+6. [Day 6: 建立邮件系统](https://samsmerrygoround.github.io/2021/06/12/pre-phd-bingo-06-email.html)
 
 # 研究 Research (5)
 
-1. Day 7: 文献综述
-2. Day 8: 查找并加入3个领域内的学术组织
-3. Day 9: 查询2-3个领域内的学术会议信息
-4. Day 10: 查询5个领域内顶刊信息
-5. Day 11: 找到3个你有资格申请的奖学金信息
+1. [Day 7: 文献综述](https://samsmerrygoround.github.io/2021/06/14/pre-phd-bingo-07-literatures.html)
+2. [Day 8: 查找并加入3个领域内的学术组织](https://samsmerrygoround.github.io/2021/06/15/pre-phd-bingo-08-organization.html)
+3. [Day 9: 查询2-3个领域内的学术会议信息](https://samsmerrygoround.github.io/2021/06/19/pre-phd-bingo-09-conference-10-journals-11-scholarship.html)
+4. [Day 10: 查询5个领域内顶刊信息](https://samsmerrygoround.github.io/2021/06/19/pre-phd-bingo-09-conference-10-journals-11-scholarship.html)
+5. [Day 11: 找到3个你有资格申请的奖学金信息](https://samsmerrygoround.github.io/2021/06/19/pre-phd-bingo-09-conference-10-journals-11-scholarship.html)
 
 # 学术社交圈 Networking (5)
 
-1. Day 12: 熟悉你的实验室
-2. Day 13: 熟悉你的院系
-3. Day 14: 熟悉你的同学
-4. Day 15: 熟悉本地的其他学校
-5. Day 16: 注册学术推特，关注10个同行
+1. [Day 12: 熟悉你的实验室](https://samsmerrygoround.github.io/2021/06/21/pre-phd-bingo-12-lab.html)
+2. [Day 13: 熟悉你的院系](https://samsmerrygoround.github.io/2021/06/27/pre-phd-bingo-13-department-14-cohort-15-global.html)
+3. [Day 14: 熟悉你的同学](https://samsmerrygoround.github.io/2021/06/27/pre-phd-bingo-13-department-14-cohort-15-global.html)
+4. [Day 15: 熟悉本地的其他学校](https://samsmerrygoround.github.io/2021/06/27/pre-phd-bingo-13-department-14-cohort-15-global.html)
+5. [Day 16: 注册学术推特，关注10个同行](https://samsmerrygoround.github.io/2021/07/03/pre-phd-bingo-16-twitter.html)
 
 # 学术之外 Outside of academia (2)
 
-1. Day 17: 在学术之外找到一个常量
+1. [Day 17: 在学术之外找到一个常量](https://samsmerrygoround.github.io/2021/07/05/pre-phd-bingo-17-constant.html)
 2. Day 18: 查找心理咨询信息
--   Part 1: 心理咨询的重要性；曾经阻碍我寻求心理咨询的顾虑以及如何化解顾虑
--   Part 2: 以加拿大安省为例分享我寻找心理咨询资源的步骤
+-   [Part 1: 心理咨询的重要性；曾经阻碍我寻求心理咨询的顾虑以及如何化解顾虑](https://samsmerrygoround.github.io/2021/07/10/pre-phd-bingo-18-therapy-1.html)
+-   [Part 2: 以加拿大安省为例分享我寻找心理咨询资源的步骤](https://samsmerrygoround.github.io/2021/07/11/pre-phd-bingo-18-therapy-2.html)
 
 # 建立你的“人设” Brand yourself (3)
 -   并不是鼓励夸夸其谈，而是帮助找到生活的重心。确定一个职业发展的方向，首先说服自己“这就是我的定位”，接着朝着这个方向去努力。
 
-1. Day 19: 制作CV/更新CV
-2. Day 20: 写一份100字左右的自我介绍
-3. Day 21: 建立一个个人网站
+1. [Day 19: 制作CV/更新CV](https://samsmerrygoround.github.io/2021/07/15/pre-phd-bingo-19-cv.html)
+2. [Day 20: 写一份100字左右的自我介绍](https://samsmerrygoround.github.io/2021/07/18/pre-phd-bingo-20-yourself.html)
+3. [Day 21: 建立一个个人网站](https://samsmerrygoround.github.io/2021/07/23/pre-phd-bingo-21-website.html)
 
 # 做好两手准备 Make a Plan B, and make it now (3)
 
-1. Day 22: 列举5项从读博中可以获得的可迁移技能
-2. Day 23: 找到3个非学术界的职业发展可能
-3. Day 24: 建立/更新领英
+1. [Day 22: 列举5项从读博中可以获得的可迁移技能](https://samsmerrygoround.github.io/2021/07/26/pre-phd-bingo-22-skills.html)
+2. [Day 23: 找到3个非学术界的职业发展可能](https://samsmerrygoround.github.io/2021/07/28/pre-phd-bingo-23-job.html)
+3. [Day 24: 建立/更新领英](https://samsmerrygoround.github.io/2021/07/29/pre-phd-bingo-24-linkedin.html)
 
 # 终极准备 Finale (1)
 
-1. Day 25: 制作一份贯穿博士项目的n年计划
+1. [Day 25: 制作一份贯穿博士项目的n年计划](https://samsmerrygoround.github.io/2021/08/01/pre-phd-bingo-25-timeline.html)
 
 # 其它资源
 - Youtube: [Dear first year phd student / A Letter To You](https://youtu.be/Q8Fym9UiOTE) by Dr Amina Yonis
