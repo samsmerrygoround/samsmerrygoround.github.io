@@ -42,6 +42,7 @@ toc_sticky: false
 以上就是我们pre-phd bingo game的全部内容了。感谢大家的陪伴~祝大家准备充分，读博快乐！
 
 {% comment %}
-
+-   [Queens psychology phd learning outcomes](https://www.queensu.ca/sgs/sites/webpublish.queensu.ca.sgswww/files/files/Program%20DLEs/Psychology_PhD.pdf)
+-   [Queens create your own grad map](https://careers.queensu.ca/students/wondering-about-career-options/grad-maps/my-grad-maps)
 
 {% endcomment %}

@@ -29,13 +29,13 @@ toc_sticky: false
 
 # “速食”笔记 Sit-notes
 
-对我来说，不与我的研究直接相关的都被归为”速食笔记“一栏。这意味着这些笔记我将不会原样誊抄（打字）到我的笔记系统中，而是以手写的形式保存，日后需要时再随时翻阅。这一类笔记包括课堂笔记、seminar notes等等。进入到博士项目，我希望自己逐渐从学生思维转变为研究者思维，虽然第一年还是有课程要上，但是这些课程的唯一作用就是提供知识服务于我的研究。我会为每门课程留出一个“笔记本”，加上一本为seminar预留的“笔记本”；这些“笔记本”只会活在我的Remarkable中。
+对我来说，不与我的研究直接相关的都被归为”速食笔记“一栏。这意味着这些笔记我将不会原样誊抄（打字）到我的笔记系统中，而是以手写的形式保存，日后需要时再随时翻阅。这一类笔记包括**课堂笔记**、**seminar notes**等等。进入到博士项目，我希望自己逐渐从学生思维转变为研究者思维，虽然第一年还是有课程要上，但是这些课程的唯一作用就是提供知识服务于我的研究。我会为每门课程留出一个“笔记本”，加上一本为seminar预留的“笔记本”；这些“笔记本”只会活在我的Remarkable中。
 
 P.S. Sit-notes命名的灵感来源于sitcome；即situational notes
 
 # 长时笔记 Standing-notes
 
-这一类的笔记，则是经过筛选后我确认具有长期价值的内容。这些笔记包括研究进展、meeting notes (lab or 1v1 with advisor)、以及和研究直接相关的学习资料（其中可能也包括课堂笔记中挑选出来的知识）。这些笔记将会活在我的Notion system中。
+这一类的笔记，则是经过筛选后我确认具有长期价值的内容。这些笔记包括**研究进展**、**meeting notes** (lab or 1v1 with advisor)、以及和研究直接相关的**学习资料**（其中可能也包括课堂笔记中挑选出来的知识）。这些笔记将会活在我的Notion system中。
 
 # 我的Notion system
 
@@ -43,7 +43,7 @@ P.S. Sit-notes命名的灵感来源于sitcome；即situational notes
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-1.png" alt="notion-1" width="300"/>
 <br>
 包括三部分内容：
-1.  我们lab的成员信息（在Day12：熟悉实验室成员时我会对这个板块进行更多介绍）
+1.  我们lab的成员信息（在[Day12：熟悉实验室成员](https://samsmerrygoround.github.io/2021/06/21/pre-phd-bingo-12-lab.html)时我会对这个板块进行更多介绍）
 2.  research ideas：记录一些临时的灵感，但是暂时还没有形成project的研究想法
 3.  resources：以color coding的形式储存我认为有长期价值的资料
 <br>

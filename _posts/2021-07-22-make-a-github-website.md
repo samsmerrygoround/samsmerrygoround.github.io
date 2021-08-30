@@ -107,6 +107,6 @@ Post: [编程小白制作个人网站（超简单！）](https://womenoverseas.c
 
 棍仔：Bootswatch [https://bootswatch.com](https://bootswatch.com/)  上面有非常多的template可以直接copy code对自己的网站进行装修。
 
-八比的比：附上一个讲解git的教程：[目錄 | 猴子都能懂的GIT入门 | 贝格乐（Backlog）](https://backlog.com/git-tutorial/cn/contents/) 我在修改github page过程中发现用得上。
+八比的比：附上一个讲解git的教程：[目錄 / 猴子都能懂的GIT入门 / 贝格乐（Backlog）](https://backlog.com/git-tutorial/cn/contents/) 我在修改github page过程中发现用得上。
 
 {% endcomment %}

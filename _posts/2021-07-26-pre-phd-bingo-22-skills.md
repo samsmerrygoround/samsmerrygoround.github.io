@@ -55,6 +55,7 @@ toc_sticky: false
 通过列举这些transferable skills，我们可以发现这些技能都是我们日常生活中培养训练的技能。这也是我心目中“transferable”的核心：不是需要我们抛开博士学位额外培养其他能力，而是帮助我们translate博士学位，帮助非学术界的人理解我们的能力，从而扩大其他可能性。
 
 {% comment %}
-
+- [https://intersectjobsims.com/](https://intersectjobsims.com/)
+- [https://graduate.wfu.edu/careers-beyond-academia/](https://graduate.wfu.edu/careers-beyond-academia/)
 
 {% endcomment %}

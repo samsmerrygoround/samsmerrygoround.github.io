@@ -50,6 +50,6 @@ toc_sticky: false
 -   最常提到的一些具体技能：R/STATA/SPSS/SAS，SQL，Python，experience with large datasets
 
 {% comment %}
-
+- [SPSP Career Resources]([https://www.spsp.org/resources/career-information](https://www.spsp.org/resources/career-information))
 
 {% endcomment %}
