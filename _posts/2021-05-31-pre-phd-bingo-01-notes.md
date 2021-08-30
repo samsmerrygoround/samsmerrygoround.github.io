@@ -48,6 +48,7 @@ P.S. Sit-notes命名的灵感来源于sitcome；即situational notes
  
 ### Planner
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/notion-3.png" alt="notion-3" width="300"/>
+<br>
 这一部分既是我的研究规划，也是我的研究进度笔记：
 
 #### Projects
