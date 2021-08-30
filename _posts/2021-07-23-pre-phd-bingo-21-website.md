@@ -1,9 +1,8 @@
 ---
-title: Pre-PHD BINGO Game 一起为读博做准备吧
-date: 2021-05-16T12:00:02-04:00
-last_modified_at: 2021-05-30T12:00:02-04:00
+title: Pre-PHD BINGO - Day 21 建立一个个人网站
+date: 2021-07-23T12:00:02-04:00
+last_modified_at: 2021-07-23T12:00:02-04:00
 tags:
-  - 心理日常
   - 读博预备役
 toc: true
 toc_sticky: false
