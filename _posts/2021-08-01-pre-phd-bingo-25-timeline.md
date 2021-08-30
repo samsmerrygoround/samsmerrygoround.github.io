@@ -14,7 +14,7 @@ toc_sticky: false
 
 - 参考视频：Youtube - [How I Planned my PhD / 4 Year GANTT Chart in A4 Bullet Journal and Power Point / Digital Download](https://youtu.be/I8UxsETqIMo)
 
-以年为单位的规划可以有不同的形式。我个人会采取甘特图+年计划列表结合的形式。如果想了解更多甘特图的案例，我推荐看一看上面链接里的视频。我也在这里附上了[我的甘特图实例](https://docs.google.com/spreadsheets/d/1u6Y3xn0JkJF2O__da-Kxgd9aFGWSLCKYlRBJGb-F4GA/edit?usp=sharing)，有需要的姐妹可以”Make a copy“自用。
+以年为单位的规划可以有不同的形式。我个人会采取甘特图+年计划列表结合的形式。如果想了解更多甘特图的案例，我推荐看一看上面链接里的视频。我也在这里附上了[我的甘特图实例](https://docs.google.com/spreadsheets/d/1u6Y3xn0JkJF2O__da-Kxgd9aFGWSLCKYlRBJGb-F4GA/edit?usp=sharing)，有需要的朋友可以”Make a copy“自用。
 
 计划大概会不断根据现实进行调整，因此我现在的计划也只是根据我现在收集的信息制定的初步计划。我的甘特图横向以周和月为单位，纵向包括以下几部分内容：
 
