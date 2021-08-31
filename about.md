@@ -28,9 +28,10 @@ key: page-about
 
 欢迎来到我的博客。我是一个[心理学研究者](https://samxshang.github.io/)。 
 
-我在这里记录我的读博日常，年终总结，以及生活感悟。
+我在这里记录我的专业日常（ #心理日常 #读博预备役 #读博成长记 #职场两分 ），年终总结（ #年终总结 ） ，以及生活感悟（ #生活进行时 #书影乐播 [#疫情日记](https://coronavirus-diaries-overseas.gitbook.io/coronavirus-diaries-overseas/) ）。
 
 订阅我的博客： [RSS](https://samsmerrygoround.github.io/feed)
+
 
 ## 致谢
 <div>本网站的图标由<a href="https://www.freepik.com" title="Freepik">Freepik</a>制作，图标由<a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>网站提供。</div>
