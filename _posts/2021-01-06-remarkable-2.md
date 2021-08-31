@@ -8,7 +8,7 @@ toc: true
 toc_sticky: false
 ---
 
-新~~玩具~~生产力工具：Remarkable 2 测评。
+新~~玩具/~~生产力工具：Remarkable 2 测评。
 
 <!--more-->
 
@@ -20,15 +20,15 @@ toc_sticky: false
 
 图一：Remarkable 阅读效果
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-3.png" alt="remarkable-3" width="500"/>
-<br>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-3.png" alt="remarkable-3" width="600"/>
+<br><br>
 图二：pdf 同步电脑阅读效果
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-4.png" alt="remarkable-4" width="500"/>
-<br>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-4.png" alt="remarkable-4" width="600"/>
+<br><br>
 图三：双排文字阅读效果
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-5.png" alt="remarkable-5" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-5.png" alt="remarkable-5" width="600"/>
 <br>
 
 # 书写笔记
@@ -39,7 +39,7 @@ toc_sticky: false
 
 图四：书写效果
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-6.jpeg" alt="remarkable-6" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-6.jpeg" alt="remarkable-6" width="600"/>
 <br>
 
 # 电脑同步
@@ -52,13 +52,13 @@ Remarkable 和电脑 app 同步是真的快。就几秒钟。这一点我太喜�
 <br>
 图五：邮箱导出
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-1.jpeg" alt="remarkable-1" width="500"/>
-<br>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-1.jpeg" alt="remarkable-1" width="600"/>
+<br><br>
 2. 在电脑端可以保存成pdf
 <br>
 图六：电脑端导出
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-2.jpeg" alt="remarkable-2" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/remarkable-2.jpeg" alt="remarkable-2" width="600"/>
 <br>
 
 # Remarkable vs. iPad
