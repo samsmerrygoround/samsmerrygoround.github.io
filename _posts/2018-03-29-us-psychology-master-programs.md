@@ -1,6 +1,6 @@
 ---
-title: 心理学（非临床咨询）15所美硕项目
-date: 2020-12-23T15:00:00-04:00
+title: 可能是最全的美国心理学硕士项目集锦
+date: 2018-03-29T15:00:00-04:00
 last_modified_at: 2020-12-23T15:00:00-04:00
 tags:
   - 心理日常
@@ -8,7 +8,7 @@ toc: true
 toc_sticky: false
 ---
 
-适合为读博做铺垫的美国心理学硕士项目。
+本人今年主申心理学硕士项目，基本把所有综合排名前150的学校从头到尾看了一遍，搜罗出以下适合为读博做铺垫的美国心理学硕士项目，在此无偿分享给大家~希望大家都有好的归宿。
 
 <!--more-->
 
@@ -163,6 +163,7 @@ toc_sticky: false
 
 {% comment %}
 
-Post: https://www.douban.com/group/topic/203152233/
+Original post: http://bbs.gter.net/thread-2158584-1-1.html
+New post: https://www.douban.com/group/topic/203152233/
 
 {% endcomment %}
