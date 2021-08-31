@@ -23,7 +23,7 @@ toc_sticky: false
 而今天早上，我上司花了五分钟和我解释为什么她不喜欢 plain yogurt，而今天她没带 granola，所以不知道怎么才能喝她的酸奶。而在我提出任何想法的时候，她的反馈基本上只有“Check with [boss]”或“No let's stick with what we did last year.” 统计学家年年发表论文推荐新方法，办公软件年年升级，我不知道如何才能做到止步不前。这是一种不同的处世之道，它仿佛在嘲笑我的严肃认真。这一刻，我从学习新知识中获得的力量完全使不出来，如此我终于发现了自己只是个普通人而已。
 
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/world-sucks.jpg" alt="world-sucks" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/world-sucks.jpg" alt="world-sucks" width="800"/>
 <br>
 Maybe I will.
 
