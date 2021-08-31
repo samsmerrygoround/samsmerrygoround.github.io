@@ -49,7 +49,15 @@ toc_sticky: false
 -   某些针对博士的岗还是会看first-author publication/presentation/award的，目的主要是证明有独立研究的能力+在业内有一定影响力
 -   最常提到的一些具体技能：R/STATA/SPSS/SAS，SQL，Python，experience with large datasets
 
-{% comment %}
-- [SPSP Career Resources]([https://www.spsp.org/resources/career-information](https://www.spsp.org/resources/career-information))
+# 找工资源
+- [SPSP Career Resources](https://www.spsp.org/resources/career-information)
+- [SPSP Career Center](https://www.spsp.org/news-center/announcements/non-academic-job-search-strategies)
+- [APA Career Center](https://www.apa.org/careers/resources/profiles)
+- [Non-academic job holders interview](https://spsp.org/news-center/member-newsletters/3-22-2018/nonacademic-job-market)
+- [Unofficial Bios by psychologists](https://spsp.org/sites/default/files/psychological-scholars-unofficial-bios.pdf)
+- [InterSECT Job Simulations!](https://intersectjobsims.com/)
 
+{% comment %}
+- [Wake Careers Beyond Academia](https://graduate.wfu.edu/careers-beyond-academia/)
+- [Queens workshop](https://careers.queensu.ca/students/services-students/workshops/career-workshops)
 {% endcomment %}
