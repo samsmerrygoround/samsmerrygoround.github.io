@@ -22,12 +22,14 @@ toc_sticky: false
 
 Trans是装错了身体的灵魂想拾回自己，而我呢？我觉得自己也装错了身体，但我因此而感激甚至得意。女性的身份像一份超出我能力范围的offer，我得到它，为此而侥幸，又生怕被人发现我不够格。正如去年五月的微博所写的那样，觉得自己生命中大部分美好的事情都是对我的过誉，我拿着烫手，却不想放手。摸着自己软软的胸等待其他超出能力范围offer的我如是说。
 
-<br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/me.jpg" alt="me" width="500"/>
-<br>
+
 
 {% comment %}
 Post: Douban
+
+<br>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/me.jpg" alt="me" width="500"/>
+<br>
 
 我对除我以外的其他女人倒是没那么多定义，比如不会认为任何其他女生“not qualified”，我也喜欢欣赏世上存在各种类型的女生。但不知怎的就会对自己有某种期待，这可能也不是对性别的期待，只是对理想我的一种稍有偏颇的构建吧…
 
