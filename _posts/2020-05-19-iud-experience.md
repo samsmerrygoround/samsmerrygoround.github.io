@@ -30,12 +30,12 @@ toc_sticky: false
 
 图一：Kyleena
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/iud-3.png" alt="iud-3" width="400"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/iud-3.png" alt="iud-3" width="500"/>
 <br><br>
 
 图二：Kyleena体型较小，材质灵活
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/iud-4.png" alt="iud-4" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/iud-4.png" alt="iud-4" width="600"/>
 <br><br>
 
 19年9月11日（星期三）：室友陪我去了诊所，结果没有置入成功…首先各种测试结果带全了是很有用的，果然不需要再测一次。其次是确认目前没有怀孕，这一点因为上个月经期正常，本月一直在服用口服避孕药，所以也算pass。问题是出在实际操作方面。
@@ -69,10 +69,11 @@ toc_sticky: false
 图三：Kyleena原理
 <br>
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/iud-5.png" alt="iud-5" width="500"/>
-<br><br>
+<br>
 
 Kyleena是塑料材质，T型结构，在子宫内缓慢释放孕激素（progestin hormone）进行避孕。Kyleena不含有雌激素（estrogen）。Kyleena可能通过以下几种方式产生作用：包括加厚子宫黏液、抑制精子运动、降低精子活性、以及使子宫内膜变薄。这几种方式共同作用进行避孕的原理未知。
 
+<br>
 2) Kyleena的避孕效果
 
 图四：Kyleena的避孕效果
