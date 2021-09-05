@@ -8,6 +8,20 @@
 
 ## 1.0.0 (2021-08-29)
 
+### Callout
+
+ 在此，萨拉米开始一段全新的旅程。
+{:.success}
+
+在此，萨拉米开始一段全新的旅程。
+{:.info}
+
+在此，萨拉米开始一段全新的旅程。
+{:.warning}
+
+在此，萨拉米开始一段全新的旅程。
+{:.error}
+
 ### Ideas
 
 - Weekly/Bi-weekly phd life diary series

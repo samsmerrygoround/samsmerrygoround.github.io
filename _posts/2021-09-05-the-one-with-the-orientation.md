@@ -10,16 +10,9 @@ excerpt: 在此，萨拉米开始一段全新的旅程。
 ---
 
 在此，萨拉米开始一段全新的旅程。
-{:.success}
-
-在此，萨拉米开始一段全新的旅程。
-{:.info}
-
-在此，萨拉米开始一段全新的旅程。
 {:.warning}
 
-在此，萨拉米开始一段全新的旅程。
-{:.error}
+
 
 
 {% comment %}
@@ -28,5 +21,5 @@ excerpt: 在此，萨拉米开始一段全新的旅程。
 
 
  Things won't magically change, but I can grow gradually - home office set up - orientation, TA prep, research proposal (Ethics Training) [https://economics.harvard.edu/files/economics/files/rules_for_grad_school_laura.pdf?m=1602859550](https://www.google.com/url?q=https://economics.harvard.edu/files/economics/files/rules_for_grad_school_laura.pdf?m%3D1602859550&sa=D&source=calendar&usd=2&usg=AOvVaw3EQx2e7jLDbmTiEbytl3oG) back to school, rusty the ability to adapt - never think about going "back", nowhere to go back. Accept everything in my environment
- 
+
 {% endcomment %}
