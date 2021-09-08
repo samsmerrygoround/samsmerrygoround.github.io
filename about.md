@@ -51,6 +51,7 @@ key: page-about
 	- 年末回顾，新年企划。
 - [#书影乐播](https://samsmerrygoround.github.io/archive.html?tag=%E4%B9%A6%E5%BD%B1%E4%B9%90%E6%92%AD) 
 	- 分享读后感，观影记，品乐志，播客集。
+	- 我的书影乐播列表： [Notion](https://samxshang.notion.site/0219e218902a471c99f7f17ed81f551a?v=32c7cb5a009d4d309eac677e8d974ce7)
 - [#疫情日记](https://samsmerrygoround.github.io/archive.html?tag=%E7%96%AB%E6%83%85%E6%97%A5%E8%AE%B0)
 	- 疫情日记系列是[海外疫情日记项目](https://coronavirus-diaries-overseas.gitbook.io/coronavirus-diaries-overseas/)的一部分，记录疫情时期个人视角的观察。
 
