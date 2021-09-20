@@ -2,12 +2,11 @@
 layout: article
 ---
 
-友邻位激情招标中！
-
-有意互链者请：
-- 在她乡上私信我：[merry_go_round](https://womenoverseas.com/u/merry_go_round/summary)
-- 在她乡Discord上联系我：salami
-- 在长毛象上联系我： [merry go round](https://douchi.space/@nerdsam)
+Friend me:
+- 她乡：[merry_go_round](https://womenoverseas.com/u/merry_go_round/summary)
+- Discord： salami
+- 长毛象： [merry go round](https://douchi.space/@nerdsam)
+- Spotify: [merry go round](https://open.spotify.com/user/lzdya7z12gu1rxwffixyq36ca)
 
 
 {% comment %}
