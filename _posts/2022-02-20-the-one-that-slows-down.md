@@ -33,7 +33,7 @@ excerpt: 爱自己这门课，我终于毕业了。
 顺便意外发现中孝介也翻唱过“[在没有雨水滋润的星球上是无法付出爱的吧](https://open.spotify.com/track/54uzeok7IH6e5Lhrm3oaq9?si=92cfabc2afbe4bbd)”。果然声音好听唱什么都好听^^。
 
 ## 影
-这周和姬友一起看了*Professor Marston and the Wonder Women*，标题的 Women 真是充满深意，看得我们心满意足。
+这周和姬友一起看了 *Professor Marston and the Wonder Women*，标题的 Women 真是充满深意，看得我们心满意足。
 
 周末自己去影院看了 *The Worst Person in the World*，也是一部非常精彩的电影。女主的灵动让我想起AS。不知道她会不会有一天找到值得停下来的城市和人呢？
 
