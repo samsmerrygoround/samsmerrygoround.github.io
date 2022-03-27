@@ -1,6 +1,6 @@
 ---
 title: S1E6 The one who wanders and wonders
-date: 2022-03-27T18:00:00-05:00
+date: 2022-03-27T12:00:00-05:00
 tags:
   - 读博成长记
   - 书影乐播
