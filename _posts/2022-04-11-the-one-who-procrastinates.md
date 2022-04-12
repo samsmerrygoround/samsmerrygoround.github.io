@@ -27,7 +27,7 @@ excerpt: 爱自己，除了爱自己的优点，也要接受自己的缺点。
 最近只看了[The Power of the Dog](https://www.imdb.com/title/tt10293406/)，但并不是很喜欢。虽然演技很好，角色很出彩，但是我看够了男性主角的电影了…看多了就觉得没啥劲。
 
 ## 音
-Yep, I did it again. 这期的 weird playlist 是歌手们有意无意致敬其他 fellow 歌手的音乐。最喜欢的两首是 John Lennon 写给 Yoko Ono 的“Dear Yoko”，John Lennon 摇头摆尾地吟唱”Oh, Oh Yoko, I'll never ever ever ever ever ever let you go"。而Yoko哀泣，“You promised me, you promised me, you promised me, you promised me... I don't remember what you promised; I know you didn't keep it.“ 
+Yep, I did it again. 这期的 weird playlist 是歌手们有意无意致敬其他 fellow 歌手的音乐。最喜欢的两首是 John Lennon 写给 Yoko Ono 的"Dear Yoko"和 Yoko 纪念 John Lennon 的"No No No"。John Lennon 摇头摆尾地吟唱"Oh, Oh Yoko, I'll never ever ever ever ever ever let you go"。而Yoko哀泣，"You promised me, you promised me, you promised me, you promised me... I don't remember what you promised; I know you didn't keep it."
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5zqh9RCbS3lOHxAFA0v3Px?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
