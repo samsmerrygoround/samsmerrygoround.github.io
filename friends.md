@@ -10,7 +10,7 @@ Friend me：
 
 
 友邻博客：
-- [June | 六月](https://shiorireads.ca/)
+- [June \| 六月](https://shiorireads.ca/)
 
 
 {% comment %}
