@@ -9,7 +9,6 @@ excerpt: 博一总结
 ---
 
 博一结束了，我还活着，and then some。
-
 {:.warning}
 
 今天和导开了annual review meeting，总结一下博一两个学期结束我的状态。
