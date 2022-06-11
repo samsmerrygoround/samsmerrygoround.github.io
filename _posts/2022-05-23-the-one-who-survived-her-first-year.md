@@ -5,7 +5,7 @@ tags:
   - 读博成长记
 toc: true
 toc_sticky: false
-excerpt: 博一总结
+excerpt: 博一结束了，我还活着，and then some。
 ---
 
 博一结束了，我还活着，and then some。
