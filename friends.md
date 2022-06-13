@@ -9,8 +9,9 @@ Friend me：
 - Spotify: [merry go round](https://open.spotify.com/user/lzdya7z12gu1rxwffixyq36ca)
 
 
-友邻博客：
+我喜欢的博客：
 - [June \| 六月](https://shiorireads.ca/)
+- [Pilgrimage](https://writee.org/iris-bios/)
 
 
 {% comment %}
