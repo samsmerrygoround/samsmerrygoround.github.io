@@ -12,6 +12,7 @@ Friend me：
 我喜欢的博客：
 - [June \| 六月](https://shiorireads.ca/)
 - [Pilgrimage](https://writee.org/iris-bios/)
+- [Albus's Pensieve](https://pensieve.wangxindi.org/)
 
 
 {% comment %}
