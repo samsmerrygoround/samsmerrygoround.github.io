@@ -48,7 +48,7 @@ key: page-about
 - [#生活进行时](https://samsmerrygoround.github.io/archive.html?tag=%E7%94%9F%E6%B4%BB%E8%BF%9B%E8%A1%8C%E6%97%B6) 
 	- 人际，移民，运动，情绪。
 - [#初恋五十次](https://samsmerrygoround.github.io/archive.html?tag=%E5%88%9D%E6%81%8B%E4%BA%94%E5%8D%81%E6%AC%A1) 
-	- 我的恋爱故事。
+	- 我的恋爱故事，亲密关系感悟。
 - [#彼女](https://samsmerrygoround.github.io/archive.html?tag=%E6%80%A7%E5%88%AB%E6%80%A7%E5%90%91) 
 	- 女性，女权，性向。
 - [#年终总结](https://samsmerrygoround.github.io/archive.html?tag=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93)
