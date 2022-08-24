@@ -20,8 +20,9 @@ toc_sticky: false
 
 我对这所城市其实还是挺喜欢的，气候好、生活成本低、安静、平和。我感激它让我看到了美国的另一面真相，放弃幻想，寻找下一个新祖国。
 
-{% comment %}
+---
+首发[她乡·她山之石](https://womenoverseas.com/t/topic/15931)。
 
-首发她乡·她山之石：https://womenoverseas.com/t/topic/15931
+{% comment %}
 
 {% endcomment %}
