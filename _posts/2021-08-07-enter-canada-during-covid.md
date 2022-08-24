@@ -58,6 +58,26 @@ toc_sticky: false
 
 我过海关时听到旁边也有上海来的一个航班，我看到的几个中国人入境也挺顺利的。应该是材料准备齐全就没问题。
 
+---
+
+Hey everyone! I have arrived at Canada. Here’s my experience:
+
+1.  My background: Chinese passport, departing from Charlotte, NC, USA. Airline is American Airlines (AA). Landing at Toronto Pearson (YYZ) Terminal 3. Fully vaccinated, J&J. My program at Queens is PhD in Psychology.
+    
+2.  ArriveCAN: Since I am fully vaccinated and have uploaded my vaccination proof, the app did not ask for my hotel information nor my quarantine plan. I did not book a hotel. I did prepare my quarantine plan and had it printed out though.
+    
+3.  Checking-in: The counter requested to see my passport, Canada visa, ArriveCAN receipt, negative COVID test result, the “your study permit has been approved” letter from the Canadian government. Then I got my boarding pass with a “doc okay” stamp on it.
+    
+4.  Boarding (this is probably the most strict one as everyone was saying): First passengers needed to get the documents checked again at a counter next to the boarding gate. They requested to see my passport, ArriveCAN receipt, Canadian visa, negative COVID test result, the “your study permit has been approved” letter, admission letter from Queens, study plan, class schedule/enrollment proof (which I did not prepare but they let me on eventually, because I showed them the itinerary on my study plan; I do advise people preparing for this though). Then I got another stamp on my boarding pass.
+    
+5.  After landing at Toronto Pearson, first everyone went to an area that has a lot of machines. I declared I didn’t have restricted goods with me (like weapons and stuff), my purpose to Canada & how many days I am staying. Then I got a receipt from the machine.
+    
+6.  Next, I went to the immigration counter (someone guided me). I gave the officer my receipt from the machine, passport with Canadian visa in it, ArriveCAN receipt, negative COVID test result, vaccination proof, “your study permit has been approved” letter, admission letter from Queens, the letter from QUIC, admission letter from my department (with scholarship information on it; I used this as my financial proof). The officer asked where I came from, my purpose in Canada, where I will be studying. Then they asked me to wait at the waiting area. After about 20 minutes, I was asked to go to the counter again and got my study permit. They did not ask other questions, and just asked me to make sure the information was correct on the permit.
+    
+7.  Next, I got my baggage at the baggage claim area. With all my baggage, I went to the arrival COVID test area. I pre-registered for Switch Health so I went to the faster line. (Make sure you enter your Canadian address when registering! I got it wrong so it took longer.) Then I got to the testing area, and I didn’t have to wait for the result. Since I am exempt from quarantine, I just went to take the train.
+    
+
+Disclaimer: This is just my personal experience, and it is not legal advice! Please refer to the Canadian government website for the latest policies.
 
 {% comment %}
 
