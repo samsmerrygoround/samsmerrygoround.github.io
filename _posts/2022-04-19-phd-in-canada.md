@@ -36,15 +36,15 @@ toc_sticky: false
 
 我刚刚顺手查了一下几个心理学top学校的信息。
 
--   [UBC 4](https://psych.ubc.ca/graduate/funding/)： 硕士录取就有奖
--   [McGill 2](https://www.mcgill.ca/psychology/graduate/prospective-students/financial-support)：硕士录取就有奖
--   [UToronto 2](https://www.psych.utoronto.ca/prospective-graduate-students/application-information#admission-accordion-5)：两年前刚刚改成不招硕士生了，只招博士生，但是录取就有奖
+-   [UBC](https://psych.ubc.ca/graduate/funding/)： 硕士录取就有奖
+-   [McGill](https://www.mcgill.ca/psychology/graduate/prospective-students/financial-support)：硕士录取就有奖
+-   [UToronto](https://www.psych.utoronto.ca/prospective-graduate-students/application-information#admission-accordion-5)：两年前刚刚改成不招硕士生了，只招博士生，但是录取就有奖
 -   [Alberta](https://www.ualberta.ca/psychology/graduate-studies/application-information/index.html)：他们学校这网站做的也太信息不公开了，估计要给小秘发邮件问。。
 -   [Western](https://psychology.uwo.ca/graduate/future_students/funding.html)：硕士录取就有奖
--   [York](https://psychology.gradstudies.yorku.ca/prospective-students/ma/)：没有钱，至少今年是不招国际生了 ![:frowning:](https://womenoverseas.com/images/emoji/apple/frowning.png?v=12 ":frowning:")
+-   [York](https://psychology.gradstudies.yorku.ca/prospective-students/ma/)：没有钱，至少今年是不招国际生了 :(
 -   [Calgary](https://arts.ucalgary.ca/psychology/future-students/graduate/fees-and-funding)：硕士录取就有奖
--   [Waterloo](https://uwaterloo.ca/psychology/graduate-students/funding-awards)：硕士录取就有奖，但是国际生只有[一个名额 1](https://uwaterloo.ca/psychology/graduate-students/application-procedures-graduate-studies-psychology)
--   [Queens 1](https://www.queensu.ca/psychology/graduate/prospective-students/funding-awards-financial-support/funding-awards-and-financial-support)：理论上来说不保证硕士有奖，但近几年的实际情况都是硕士录取就有奖
+-   [Waterloo](https://uwaterloo.ca/psychology/graduate-students/funding-awards)：硕士录取就有奖，但是国际生只有[一个名额](https://uwaterloo.ca/psychology/graduate-students/application-procedures-graduate-studies-psychology)
+-   [Queens](https://www.queensu.ca/psychology/graduate/prospective-students/funding-awards-financial-support/funding-awards-and-financial-support)：理论上来说不保证硕士有奖，但近几年的实际情况都是硕士录取就有奖
 
 ---
 最后祝大家都能申请顺利，留学顺利，移民顺利！
