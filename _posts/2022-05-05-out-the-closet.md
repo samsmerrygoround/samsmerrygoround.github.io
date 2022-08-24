@@ -2,7 +2,7 @@
 title: 出柜
 date: 2022-05-05T15:00:00-04:00
 tags:
-  - 性别性向
+  - 彼女
 toc: true
 toc_sticky: false
 ---
