@@ -2,7 +2,7 @@
 title: “假小子”与女权
 date: 2022-05-12T18:00:00-05:00
 tags:
-  - 生活进行时
+  - 性别性向
 toc: true
 toc_sticky: false
 excerpt: 作为一个曾经的“假小子”，我如何看待女权。

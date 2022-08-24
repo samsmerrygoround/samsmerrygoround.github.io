@@ -2,7 +2,7 @@
 title: 出柜
 date: 2022-05-05T15:00:00-04:00
 tags:
-  - 生活进行时
+  - 性别性向
 toc: true
 toc_sticky: false
 ---

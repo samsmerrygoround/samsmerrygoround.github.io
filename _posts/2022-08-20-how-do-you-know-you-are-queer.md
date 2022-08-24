@@ -2,7 +2,7 @@
 title: 怎么确定自己的性取向？
 date: 2022-08-20T18:00:00-05:00
 tags:
-  - 生活进行时
+  - 性别性向
 toc: true
 toc_sticky: false
 ---
