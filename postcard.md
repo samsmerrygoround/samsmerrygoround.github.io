@@ -1,12 +1,20 @@
 ---
 layout: article
 postcard_gallery:
-  - url: /assets/postcards/Chou_2022-02-22.png
-    image_path: /assets/postcards/Chou_2022-02-22.png
+  - url: /assets/postcards/chou_2022-02-22_280.png
+    image_path: /assets/postcards/chou_2022-02-22_280.png
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
-  - url: /assets/postcards/Chou_2022-02-22.png
-    image_path: /assets/postcards/Chou_2022-02-22.png
+  - url: /assets/postcards/chou_2022-02-22_280.png
+    image_path: /assets/postcards/chou_2022-02-22_280.png
+    alt: "Chou_2022-02-22"
+    title: "Chou_2022-02-22"
+  - url: /assets/postcards/chou_2022-02-22_280.png
+    image_path: /assets/postcards/chou_2022-02-22_280.png
+    alt: "Chou_2022-02-22"
+    title: "Chou_2022-02-22"
+  - url: /assets/postcards/chou_2022-02-22_280.png
+    image_path: /assets/postcards/chou_2022-02-22_280.png
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
 long_postcard_gallery:
