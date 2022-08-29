@@ -10,28 +10,28 @@ postcard_gallery:
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
 long_postcard_gallery:
-  - url: /assets/postcards/AijiaG_2022-01-26.png
-    image_path: /assets/postcards/AijiaG_2022-01-26.png
+  - url: /assets/postcards/AijiaG_2022-01-26_w350.png
+    image_path: /assets/postcards/AijiaG_2022-01-26_w350.png
     alt: "AijiaG_2022-01-26"
     title: "AijiaG_2022-01-26"
-  - url: /assets/postcards/AijiaG_2022-01-26.png
-    image_path: /assets/postcards/AijiaG_2022-01-26.png
+  - url: /assets/postcards/AijiaG_2022-01-26_w350.png
+    image_path: /assets/postcards/AijiaG_2022-01-26_w350.png
     alt: "AijiaG_2022-01-26"
     title: "AijiaG_2022-01-26"
-  - url: /assets/postcards/AijiaG_2022-01-26.png
-    image_path: /assets/postcards/AijiaG_2022-01-26.png
+  - url: /assets/postcards/AijiaG_2022-01-26_w350.png
+    image_path: /assets/postcards/AijiaG_2022-01-26_w350.png
     alt: "AijiaG_2022-01-26"
     title: "AijiaG_2022-01-26"
-  - url: /assets/postcards/AijiaG_2022-01-26.png
-    image_path: /assets/postcards/AijiaG_2022-01-26.png
+  - url: /assets/postcards/AijiaG_2022-01-26_w350.png
+    image_path: /assets/postcards/AijiaG_2022-01-26_w350.png
     alt: "AijiaG_2022-01-26"
     title: "AijiaG_2022-01-26"
-  - url: /assets/postcards/AijiaG_2022-01-26.png
-    image_path: /assets/postcards/AijiaG_2022-01-26.png
+  - url: /assets/postcards/AijiaG_2022-01-26_w350.png
+    image_path: /assets/postcards/AijiaG_2022-01-26_w350.png
     alt: "AijiaG_2022-01-26"
     title: "AijiaG_2022-01-26"
-  - url: /assets/postcards/AijiaG_2022-01-26.png
-    image_path: /assets/postcards/AijiaG_2022-01-26.png
+  - url: /assets/postcards/AijiaG_2022-01-26_w350.png
+    image_path: /assets/postcards/AijiaG_2022-01-26_w350.png
     alt: "AijiaG_2022-01-26"
     title: "AijiaG_2022-01-26"
 ---
