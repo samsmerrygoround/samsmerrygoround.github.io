@@ -1,63 +1,11 @@
 ---
 layout: article
-postcard_gallery:
-  - url: /assets/postcards/chou_2022-02-22_280.png
-    image_path: /assets/postcards/chou_2022-02-22_280.png
-    alt: "Chou_2022-02-22"
-    title: "Chou_2022-02-22"
-  - url: /assets/postcards/chou_2022-02-22_280.png
-    image_path: /assets/postcards/chou_2022-02-22_280.png
-    alt: "Chou_2022-02-22"
-    title: "Chou_2022-02-22"
-  - url: /assets/postcards/chou_2022-02-22_280.png
-    image_path: /assets/postcards/chou_2022-02-22_280.png
-    alt: "Chou_2022-02-22"
-    title: "Chou_2022-02-22"
-  - url: /assets/postcards/chou_2022-02-22_280.png
-    image_path: /assets/postcards/chou_2022-02-22_280.png
-    alt: "Chou_2022-02-22"
-    title: "Chou_2022-02-22"
-long_postcard_gallery:
-  - url: 
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
-  - url: 
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
-  - url: /assets/postcards/long_140_200.png
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
-  - url: /assets/postcards/long_140_200.png
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
-  - url: /assets/postcards/long_140_200.png
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
-  - url: /assets/postcards/long_140_200.png
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
-  - url: /assets/postcards/long_140_200.png
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
-  - url: /assets/postcards/long_140_200.png
-    image_path: /assets/postcards/long_140_200.png
-    alt: "long_140_200"
-    title: "long_140_200"
 ---
 
-Select postcards:
 
-{% include gallery id="postcard_gallery" layout="full" %}
+{% include image-gallery.html folder="/assets/postcards" %}
 
-Long postcards:
-{% include gallery id="long_postcard_gallery" class="full %}
+
 
 <br/>
 
