@@ -25,37 +25,12 @@ Select postcards:
 
 
 
-
-<div class="card"> 
-    <div class="card__image">
-        <img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Chou_2022-02-22.jpg" alt="japan_chou_2022-02-22" width="500"/> 
-    </div>
-</div>
-
-<div class="card"> 
-    <div class="card__image"> 
-        <img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" width="700"/> 
-    </div>
-</div>
-
-NY, USA
-
-
 <br/>
 
 
-# North America
 
-## Caribbean
-## Central America
 
-# South America
 
-美洲 （北美，南美
-非洲
-欧洲
-亚洲
-大洋洲
 
 
 
@@ -68,5 +43,19 @@ NY, USA
     </div>
 </div>
 
+# 美洲 
+## 北美 North America
+### 美国
+### 加拿大
+### Caribbean
+### Central America
+
+## 南美 South America
+
+# 亚洲
+
+# 欧洲
+# 大洋洲
+# 非洲
 
 {% endcomment %}
