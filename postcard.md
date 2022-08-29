@@ -18,11 +18,11 @@ postcard_gallery:
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
 long_postcard_gallery:
-  - url: /assets/postcards/long_140_200.png
+  - url: 
     image_path: /assets/postcards/long_140_200.png
     alt: "long_140_200"
     title: "long_140_200"
-  - url: /assets/postcards/long_140_200.png
+  - url: 
     image_path: /assets/postcards/long_140_200.png
     alt: "long_140_200"
     title: "long_140_200"
@@ -63,7 +63,7 @@ Long postcards:
 
 
 - [ ] Algeria
-
+- [ ] Angola
 
 
 
