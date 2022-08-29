@@ -9,21 +9,39 @@ postcard_gallery:
     image_path: /assets/postcards/Chou_2022-02-22.png
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
-  - url: /assets/postcards/Yangyang_2022-02-14.png
-    image_path: /assets/postcards/Yangyang_2022-02-14.png
-    alt: "Yangyang_2022-02-14"
-    title: "Yangyang_2022-02-14"
-  - url: /assets/postcards/Yangyang_2022-02-14.png
-    image_path: /assets/postcards/Yangyang_2022-02-14.png
-    alt: "Chou_2022-02-22"
-    title: "Chou_2022-02-22"
+long_postcard_gallery:
+  - url: /assets/postcards/AijiaG_2022-01-26.png
+    image_path: /assets/postcards/AijiaG_2022-01-26.png
+    alt: "AijiaG_2022-01-26"
+    title: "AijiaG_2022-01-26"
+  - url: /assets/postcards/AijiaG_2022-01-26.png
+    image_path: /assets/postcards/AijiaG_2022-01-26.png
+    alt: "AijiaG_2022-01-26"
+    title: "AijiaG_2022-01-26"
+  - url: /assets/postcards/AijiaG_2022-01-26.png
+    image_path: /assets/postcards/AijiaG_2022-01-26.png
+    alt: "AijiaG_2022-01-26"
+    title: "AijiaG_2022-01-26"
+  - url: /assets/postcards/AijiaG_2022-01-26.png
+    image_path: /assets/postcards/AijiaG_2022-01-26.png
+    alt: "AijiaG_2022-01-26"
+    title: "AijiaG_2022-01-26"
+  - url: /assets/postcards/AijiaG_2022-01-26.png
+    image_path: /assets/postcards/AijiaG_2022-01-26.png
+    alt: "AijiaG_2022-01-26"
+    title: "AijiaG_2022-01-26"
+  - url: /assets/postcards/AijiaG_2022-01-26.png
+    image_path: /assets/postcards/AijiaG_2022-01-26.png
+    alt: "AijiaG_2022-01-26"
+    title: "AijiaG_2022-01-26"
 ---
 
 Select postcards:
 
 {% include gallery id="postcard_gallery" layout="half" %}
 
-
+Long postcards:
+{% include gallery id="long_postcard_gallery" layout="third" %}
 
 <br/>
 
