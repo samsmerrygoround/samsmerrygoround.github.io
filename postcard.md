@@ -54,10 +54,10 @@ long_postcard_gallery:
 
 Select postcards:
 
-{% include gallery id="postcard_gallery" layout="half" %}
+{% include gallery id="postcard_gallery" layout="full" %}
 
 Long postcards:
-{% include gallery id="long_postcard_gallery" layout="third" %}
+{% include gallery id="long_postcard_gallery" class="full %}
 
 <br/>
 
@@ -100,48 +100,48 @@ Long postcards:
 - [ ] Republic of the Congo
 - [ ] Democratic Republic of the Congo
 - [ ] Ivory Coast (Côte d'Ivoire)
-- [ ] Djibouti - Djibouti
-Equatorial Guinea - Malabo
-Egypt (Misr) - Cairo
-Eritrea - Asmara
-Ethiopia (Abyssinia) - Addis Ababa
-Gabon - Libreville
-The Gambia - Banjul
-Ghana - Accra
-Guinea - Conakry
-Guinea-Bissau - Bissau
-Kenya - Nairobi
-Lesotho - Maseru
-Liberia - Monrovia
-Libya - Tripoli
-Madagascar - Antananarivo
-Malawi - Lilongwe
-Mali - Bamako
-Mauritania - Nouakchott
-Mauritius - Port Louis
-Morocco (Al Maghrib) - Rabat
-Mozambique - Maputo
-Namibia - Windhoek
-Niger - Niamey
-Nigeria - Abuja
-Réunion (territory of France)
-Rwanda - Kigali
-São Tomé and Príncipe - São Tomé
-Senegal - Dakar
-Seychelles - Victoria
-Sierra Leone - Freetown
-Somalia - Mogadishu
-South Africa - Pretoria
-South Sudan - Juba
-Sudan - Khartoum
-Swaziland (Eswatini) - Mbabane
-Tanzania - Dodoma
-Togo - Lome
-Tunisia - Tunis
-Uganda - Kampala
-Western Sahara - El Aaiún (disputed)
-Zambia - Lusaka
-Zimbabwe - Harare
+- [ ] Djibouti
+- [ ] Equatorial Guinea
+- [ ] Egypt
+- [ ] Eritrea
+- [ ] Ethiopia
+- [ ] Gabon
+- [ ] The Gambia
+- [ ] Ghana
+- [ ] Guinea
+- [ ] Guinea-Bissau
+- [ ] Kenya
+- [ ] Lesotho
+- [ ] Liberia
+- [ ] Libya
+- [ ] Madagascar
+- [ ] Malawi
+- [ ] Mali
+- [ ] Mauritania
+- [ ] Mauritius
+- [ ] Morocco
+- [ ] Mozambique
+- [ ] Namibia - Windhoek
+- [ ] Niger - Niamey
+- [ ] Nigeria - Abuja
+- [ ] Réunion (territory of France)
+- [ ] Rwanda - Kigali
+- [ ] São Tomé and Príncipe - São Tomé
+- [ ] Senegal - Dakar
+- [ ] Seychelles - Victoria
+- [ ] Sierra Leone - Freetown
+- [ ] Somalia - Mogadishu
+- [ ] South Africa - Pretoria
+- [ ] South Sudan - Juba
+- [ ] Sudan - Khartoum
+- [ ] Swaziland (Eswatini) - Mbabane
+- [ ] Tanzania - Dodoma
+- [ ] Togo - Lome
+- [ ] Tunisia - Tunis
+- [ ] Uganda - Kampala
+- [ ] Western Sahara - El Aaiún (disputed)
+- [ ] Zambia - Lusaka
+- [ ] Zimbabwe - Harare
 
 Western Sahara (Listed in Sl No.53 above /*Africa*/) is not a UN Member as on 18/07/2021
 
