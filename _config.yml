@@ -224,10 +224,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-gist
-  - jemoji
-  - jekyll-include-cache
-
 
 
 # Post wordcount display settings
