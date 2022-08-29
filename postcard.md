@@ -13,13 +13,20 @@ layout: article
     <div class="card__image"> 
         <img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" width="500"/> 
     </div>
-    <div class="card__content"> 
-        <div class="card__header"> 
-            <h4>Cora, NY, USA</h4> 
-        </div> 
-    </div> 
-</div>
+NY, USA
 
+<div class="grid-container"> 
+    <div class="grid grid--p-3"> 
+         <div class="card"> 
+             <div class="card__image"> 
+                 <img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" width="500"/> </div></div>
+         <div class="card"> 
+             <div class="card__image">
+                 <img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Chou_2022-02-22.jpg" alt="japan_chou_2022-02-22" width="500"/> </div></div>
+         <div class="cell cell--6"><div>6 cells</div></div> 
+         <div class="cell cell--6"><div>6 cells</div></div> 
+    </div>
+</div>
 
 
 
