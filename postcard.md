@@ -13,15 +13,15 @@ postcard_gallery:
     image_path: /assets/postcards/Yangyang_2022-02-14.png
     alt: "Yangyang_2022-02-14"
     title: "Yangyang_2022-02-14"
-  - url: /assets/postcards/Cora_2022-02-14.jpg
-    image_path: /assets/postcards/Cora_2022-02-14.jpg
+  - url: /assets/postcards/Yangyang_2022-02-14.png
+    image_path: /assets/postcards/Yangyang_2022-02-14.png
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
 ---
 
-Select poster presentations:
+Select postcards:
 
-{% include gallery id="postcard_gallery" layout="half" caption="Select postcards" %}
+{% include gallery id="postcard_gallery" layout="half" %}
 
 
 
@@ -34,8 +34,10 @@ Select poster presentations:
 
 <div class="card"> 
     <div class="card__image"> 
-        <img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" width="500"/> 
+        <img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" width="700"/> 
     </div>
+</div>
+
 NY, USA
 
 
