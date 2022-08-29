@@ -1,18 +1,18 @@
 ---
 layout: article
 postcard_gallery:
-  - url: /assets/postcards/Chou_2022-02-22.jpg
-    image_path: /assets/postcards/Chou_2022-02-22.jpg
+  - url: /assets/postcards/Chou_2022-02-22.png
+    image_path: /assets/postcards/Chou_2022-02-22.png
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
-  - url: /assets/postcards/Chou_2022-02-22.jpg
-    image_path: /assets/postcards/Chou_2022-02-22.jpg
+  - url: /assets/postcards/Chou_2022-02-22.png
+    image_path: /assets/postcards/Chou_2022-02-22.png
     alt: "Chou_2022-02-22"
     title: "Chou_2022-02-22"
-  - url: /assets/postcards/Cora_2022-02-14.jpg
-    image_path: /assets/postcards/Cora_2022-02-14.jpg
-    alt: "Cora_2022-02-14"
-    title: "Cora_2022-02-14"
+  - url: /assets/postcards/Yangyang_2022-02-14.png
+    image_path: /assets/postcards/Yangyang_2022-02-14.png
+    alt: "Yangyang_2022-02-14"
+    title: "Yangyang_2022-02-14"
   - url: /assets/postcards/Cora_2022-02-14.jpg
     image_path: /assets/postcards/Cora_2022-02-14.jpg
     alt: "Chou_2022-02-22"
@@ -41,22 +41,20 @@ NY, USA
 
 <br/>
 
-<div class="grid-container"> 
-    <div class="grid grid--p-3"> 
-	    <div class="cell cell--auto">
-	        <div class="card"><div class="card__image"><img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" /></div></div>
-	    </div>
-	     <div class="cell cell--auto">
-	        <div class="card"><div class="card__image"><img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" /></div></div>
-	    </div>
-	    <div class="cell cell--auto">
-	        <div class="card"><div class="card__image"><img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" /></div></div>
-	    </div>
-	    <div class="cell cell--auto">
-	        <div class="card"><div class="card__image"><img class="image" src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/postcards/Cora_2022-02-14.jpg" alt="ny_usa_cora_2022-02-14" /></div></div>
-	    </div>
-    </div>
-</div>
+
+# North America
+
+## Caribbean
+## Central America
+
+# South America
+
+美洲 （北美，南美
+非洲
+欧洲
+亚洲
+大洋洲
+
 
 
 
