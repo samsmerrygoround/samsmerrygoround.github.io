@@ -17,7 +17,7 @@ toc: true
 点亮地图👇
 # North America 北美 (2)
 ## Canada (CA) 加拿大 (10+3)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-canada.png" alt="canada" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-canada.png" alt="canada" width="700"/>
 ### Provinces 省份
 - [x] Ontario (ON) 安大略省
 - [x] Quebec (QC) 魁北克省
@@ -34,7 +34,7 @@ toc: true
 - [ ] Yukon (YT) 育空地区
 - [ ] Nunavut (NU) 努纳武特地区
 ## United States of America (US) 美国 (50+1)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-usa.png" alt="usa" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-usa.png" alt="usa" width="700"/>
 ### West 西部 (13)
 #### Pacific 太平洋 (5)
 - [x] **California**	(CA) 加利福尼亚州
@@ -105,9 +105,10 @@ toc: true
 - [ ] Saint Pierre & Miquelon (PM) 圣皮埃尔和密克隆 - France
 # Latin America and the Caribbean 拉丁美洲与加勒比 (33)
 ## Central America 中美洲 (8)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-mexico.png" alt="mexico" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-mexico.png" alt="mexico" width="500"/>
 - [ ] **Mexico** 墨西哥
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-america.png" alt="central-america" width="900"/>
+
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-america.png" alt="central-america" width="700"/>
 - [ ] Guatemala 危地马拉
 - [ ] Honduras 洪都拉斯
 - [ ] Nicaragua 尼加拉瓜
@@ -129,7 +130,8 @@ toc: true
 - [ ] Antigua and Barbuda 安提瓜和巴布达
 - [ ] Dominica 多米尼克
 - [ ] Saint Kitts & Nevis 圣基茨和尼维斯
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-caribbean.png" alt="caribbean" width="900"/>
+
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-caribbean.png" alt="caribbean" width="700"/>
 ### Dependencies/territories 属地及其他地区 (x)
 - [ ] Puerto Rico (PR) 波多黎各 - U.S.A.
 - [ ] Guadeloupe	(GP) 瓜德罗普 - France
@@ -149,7 +151,7 @@ toc: true
 - [ ] Saint Barthelemy	圣巴泰勒米 France
 - [ ] Montserrat 蒙特塞拉特 - U.K.
 ## South America 南美 (12)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-america.png" alt="south-america" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-america.png" alt="south-america" width="480"/>
 - [ ] **Brazil** 巴西
 - [ ] **Colombia** 哥伦比亚
 - [ ] Argentina 阿根廷
@@ -173,7 +175,7 @@ Ascension Island (United Kingdom)
 # Asia 亚洲 (48)
 ## Eastern Asia 东亚 (5)
 ### China (CN) 中国 (31)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-china.png" alt="china" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-china.png" alt="china" width="700"/>
 #### 华北 (5)
 - [ ] Beijing 北京市 (京)	
 - [x] Tianjin 天津市 (津)		
@@ -216,13 +218,13 @@ Ascension Island (United Kingdom)
 - [ ] Hong Kong 香港 (港) - China
 - [ ] Macau 澳门 (澳) - China
 ### Other Eastern Asia countries 其他东亚国家
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-east-asia.png" alt="east-asia" width="800"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-east-asia.png" alt="east-asia" width="700"/>
 - [x] **Japan** (JP) 日本
 - [ ] South Korea 韩国
 - [ ] North Korea 朝鲜
 - [ ] Mongolia 蒙古
 ## Southern Asia 南亚 (8)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-asia.png" alt="south-asia" width="500"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-asia.png" alt="south-asia" width="480"/>
 - [x] **India** (IN) 印度
 - [ ] **Pakistan** 巴基斯坦
 - [ ] **Bangladesh** 孟加拉国
@@ -238,7 +240,8 @@ Ascension Island (United Kingdom)
 - [ ] Myanmar 缅甸
 - [ ] Cambodia 柬埔寨
 - [ ] Laos 老挝
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-southeast-asia.png" alt="southeast-asia" width="600"/>
+
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-southeast-asia.png" alt="southeast-asia" width="700"/>
 ### Maritime Southeast Asia 马来群岛 (6)
 - [ ] **Indonesia**	 印度尼西亚
 - [ ] **Philippines** 菲律宾
@@ -254,10 +257,17 @@ Ascension Island (United Kingdom)
 - Cocos (Keeling) Islands 科科斯（基林）群岛 - Australia
 ## Western Asia 西亚 (18)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-west-asia.png" alt="west-asia" width="600"/>
-
+### 南高加索
+### Anatolia 小亚细亚 / 安纳托利亚
+- [ ] Turkey
+### 美索不达米亚
+### 阿拉比亚
+### 黎凡特
+埃及的西奈地区
+伊朗高原
 - [ ] Iran 
 
-- [ ] Turkey
+
 - [ ] Iraq
 - [ ] Saudi Arabia
 - [ ] Yemen
