@@ -1,6 +1,5 @@
 ---
 layout: article
-article_lightbox: true
 ---
 
 
