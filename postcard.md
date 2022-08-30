@@ -1,9 +1,8 @@
 ---
+title: 赛博旅行
 layout: article
 toc: true
 ---
-# 赛博旅行
-
 # 收信展示 Received
 ## 2022 (19)
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
