@@ -233,7 +233,7 @@ https://en.wikipedia.org/wiki/South_America
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%9A
 https://en.wikipedia.org/wiki/East_Asia
 {% endcomment %}
-- [ ] **Japan**
+- [x] **Japan**
 - [ ] South Korea
 - [ ] North Korea
 - [ ] Mongolia
@@ -243,7 +243,7 @@ https://en.wikipedia.org/wiki/East_Asia
 https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%9A
 https://en.wikipedia.org/wiki/South_Asia
 {% endcomment %}
-- [ ] **India**
+- [x] **India**
 - [ ] **Pakistan**
 - [ ] **Bangladesh**
 - [ ] Iran
@@ -266,7 +266,7 @@ https://en.wikipedia.org/wiki/Southeast_Asia
 - [ ] Malaysia
 - [ ] Cambodia
 - [ ] Laos
-- [ ] Singapore
+- [x] Singapore
 - [ ] Timor-Leste
 - [ ] Brunei
 
@@ -283,7 +283,7 @@ https://en.wikipedia.org/wiki/Western_Asia
 - [ ] Jordan
 - [ ] Azerbaijan
 - [ ] United Arab Emirates
-- [ ] Israel
+- [x] Israel
 - [ ] Lebanon
 - [ ] Oman
 - [ ] State of Palestine
@@ -312,7 +312,7 @@ https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%AC%A7
 https://en.wikipedia.org/wiki/Eastern_Europe
 https://en.wikipedia.org/wiki/North_Asia
 {% endcomment %}
-- [ ] **Russia**
+- [x] **Russia**
 - [ ] Ukraine
 - [ ] Poland
 - [ ] Romania
@@ -328,10 +328,10 @@ https://en.wikipedia.org/wiki/North_Asia
 https://zh.wikipedia.org/wiki/%E5%8C%97%E6%AD%90
 https://en.wikipedia.org/wiki/Northern_Europe
 {% endcomment %}
-- [ ] **United Kingdom**
+- [x] **United Kingdom**
 - [ ] Sweden
 - [ ] Denmark
-- [ ] Finland
+- [x] Finland
 - [ ] Norway
 - [ ] Ireland
 - [ ] Lithuania
@@ -347,7 +347,7 @@ https://en.wikipedia.org/wiki/Southern_Europe
 - [ ] **Italy**
 - [ ] Spain
 - [ ] Greece
-- [ ] Portugal
+- [x] Portugal
 - [ ] Serbia
 - [ ] Croatia
 - [ ] Bosnia and Herzegovina
@@ -365,9 +365,9 @@ https://en.wikipedia.org/wiki/Southern_Europe
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%AC%A7
 https://en.wikipedia.org/wiki/Western_Europe
 {% endcomment %}
-- [ ] **Germany**
+- [x] **Germany**
 - [ ] **France**
-- [ ] Netherlands
+- [x] Netherlands
 - [ ] Belgium
 - [ ] Austria
 - [ ] Switzerland
