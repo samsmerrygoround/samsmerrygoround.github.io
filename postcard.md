@@ -286,6 +286,7 @@ Ascension Island (United Kingdom)
 - [ ] Bahrain
 - [ ] Cyprus
 ## Central Asia 中亚 (5)
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-asia.png" alt="central-asia" width="700"/>
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BA%9A
 https://en.wikipedia.org/wiki/Central_Asia
