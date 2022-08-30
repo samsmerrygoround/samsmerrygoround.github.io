@@ -215,6 +215,7 @@ defaults:
       show_subscribe: true
       pageview: true
       comments: true
+      
 
 
 ## => Plugins
