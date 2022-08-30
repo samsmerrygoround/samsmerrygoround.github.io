@@ -2,6 +2,7 @@
 layout: article
 toc: true
 ---
+# 赛博旅行
 
 # 收信展示 Received
 ## 2022 (19)
@@ -39,7 +40,6 @@ toc: true
 
 ## United States of America (US) 美国 (50+1)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Map_of_USA_with_state_and_territory_names.png" alt="usa" width="900"/>
-
 ### West 西部 (13)
 #### Pacific 太平洋 (5)
 - [x] **California**	(CA) 加利福尼亚州
@@ -56,7 +56,6 @@ toc: true
 - [ ] Idaho (ID) 爱达荷州
 - [ ] Montana (MT) 蒙大拿州
 - [ ] Wyoming (WY) 怀俄明州
-
 ### Midwest 中西部 (12)
 #### West North Central 中部西北区 (7)
 - [ ] Missouri (MO) 密苏里州
@@ -72,7 +71,6 @@ toc: true
 - [ ] Michigan (MI) 密歇根州
 - [x] Indiana (IN) 印第安纳州
 - [ ] Wisconsin (WI) 威斯康星州
-
 ### South 南部 (17)
 #### West South Central 中部西南 (4)
 - [x] **Texas** (TX) 得克萨斯州
@@ -94,7 +92,6 @@ toc: true
 - [ ] West Virginia (WV) 希沃特吉尼亚州
 - [ ] Delaware (DE) 特拉华州
 - [ ] District of Columbia (DC) 华盛顿哥伦比亚特区
-
 ### Northeast 东北部 (9)
 #### New England 新英格兰 (6)
 - [x] Massachusetts (MA) 马萨诸塞州
@@ -107,7 +104,6 @@ toc: true
 - [x] **New York** (NY) 纽约州
 - [ ] **Pennsylvania** (PA) 宾夕法尼亚州
 - [ ] New Jersey (NJ) 新泽西州
-
 ## Dependencies/territories 属地及其他地区 (3)
 - [ ] Bermuda (BM) 百慕大 - U.K.
 - [ ] Greenland (GL) 格陵兰 - Denmark
@@ -128,7 +124,6 @@ https://en.wikipedia.org/wiki/Central_America
 - [ ] Costa Rica
 - [ ] Panama
 - [ ] Belize
-
 ## Caribbean 加勒比地区 (13)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%8B%92%E6%AF%94%E5%9C%B0%E5%8C%BA
@@ -148,7 +143,6 @@ https://en.wikipedia.org/wiki/Caribbean
 - [ ] Antigua and Barbuda
 - [ ] Dominica
 - [ ] Saint Kitts & Nevis
-
 ## South America 南美 (12)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8D%97%E7%BE%8E%E6%B4%B2
@@ -166,7 +160,6 @@ https://en.wikipedia.org/wiki/South_America
 - [ ] Uruguay
 - [ ] Guyana
 - [ ] Suriname
-
 ## Dependencies/territories 属地及其他地区 (16)
 - [ ] Puerto Rico (PR) 波多黎各 - U.S.A.
 - [ ] Guadeloupe	(GP) - France
@@ -189,7 +182,6 @@ https://en.wikipedia.org/wiki/South_America
 ## Eastern Asia 东亚 (5)
 ### China (CN) 中国 (31)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/China_administrative.png" alt="china" width="900"/>
-
 #### 华北 (5)
 - [ ] Beijing 北京市 (京)	
 - [x] Tianjin 天津市 (津)		
@@ -227,12 +219,10 @@ https://en.wikipedia.org/wiki/South_America
 - [ ] Qinghai 青海省 (青)
 - [ ] Ningxia 宁夏回族自治区 (宁)
 - [ ] Xinjiang 新疆维吾尔自治区 (新)
-
 ### Dependencies/territories 属地及其他地区 (3)
 - [ ] Taiwan	台湾 (台)
 - [ ] Hong Kong 香港特别行政区 (港) - China
 - [ ] Macau 澳门特别行政区 (澳) - China
-
 ### Other Eastern Asia countries 其他东亚国家
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%9A
@@ -242,7 +232,6 @@ https://en.wikipedia.org/wiki/East_Asia
 - [ ] South Korea
 - [ ] North Korea
 - [ ] Mongolia
-
 ## Southern Asia 南亚 (9)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%9A
@@ -257,7 +246,6 @@ https://en.wikipedia.org/wiki/South_Asia
 - [ ] Sri Lanka
 - [ ] Bhutan
 - [ ] Maldives
-
 ## South-eastern Asia 东南亚 (11)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8D%97%E4%BA%9A
@@ -274,7 +262,6 @@ https://en.wikipedia.org/wiki/Southeast_Asia
 - [x] Singapore
 - [ ] Timor-Leste
 - [ ] Brunei
-
 ## Western Asia 西亚 (18)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BA%9A
@@ -298,7 +285,6 @@ https://en.wikipedia.org/wiki/Western_Asia
 - [ ] Qatar
 - [ ] Bahrain
 - [ ] Cyprus
-
 ## Central Asia 中亚 (5)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BA%9A
@@ -327,7 +313,6 @@ https://en.wikipedia.org/wiki/North_Asia
 - [ ] Bulgaria
 - [ ] Slovakia
 - [ ] Moldova
-
 ## Northern Europe 北欧 (10)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8C%97%E6%AD%90
@@ -343,7 +328,6 @@ https://en.wikipedia.org/wiki/Northern_Europe
 - [ ] Latvia
 - [ ] Estonia
 - [ ] Iceland
-
 ## Southern Europe 南欧 (15)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8D%97%E6%AC%A7
@@ -364,7 +348,6 @@ https://en.wikipedia.org/wiki/Southern_Europe
 - [ ] Andorra
 - [ ] San Marino
 - [ ] Holy See
-
 ## Western Europe 西欧 (9)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%AC%A7
@@ -379,7 +362,6 @@ https://en.wikipedia.org/wiki/Western_Europe
 - [ ] Luxembourg
 - [ ] Monaco
 - [ ] Liechtenstein
-
 ## Dependencies/territories 属地及其他地区 (4)
 - [ ] Channel Islands - U.K.
 - [ ] Isle of Man - U.K.
@@ -428,7 +410,6 @@ https://en.wikipedia.org/wiki/North_Africa
 - [ ] Morocco
 - [ ] Tunisia
 - [ ] Libya
-
 ## Eastern Africa 东非 (18)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E9%9D%9E
@@ -452,7 +433,6 @@ https://en.wikipedia.org/wiki/East_Africa
 - [ ] Djibouti
 - [ ] Comoros
 - [ ] Seychelles
-
 ## Middle Africa 中部非洲 (9)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E9%9D%9E%E6%B4%B2
@@ -467,7 +447,6 @@ https://en.wikipedia.org/wiki/Central_Africa
 - [ ] Gabon
 - [ ] Equatorial Guinea
 - [ ] Sao Tome & Principe
-
 ## Southern Africa 南部非洲 (5)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8D%97%E9%83%A8%E9%9D%9E%E6%B4%B2
@@ -478,7 +457,6 @@ https://en.wikipedia.org/wiki/Southern_Africa
 - [ ] Botswana
 - [ ] Lesotho
 - [ ] Eswatini
-
 ## Western Africa 西非 (16)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%9D%9E
@@ -500,7 +478,6 @@ https://en.wikipedia.org/wiki/West_Africa
 - [ ] Gambia
 - [ ] Guinea-Bissau
 - [ ] Cabo Verde
-
 ## Dependencies/territories 属地及其他地区 (4)
 - [ ] Réunion - France
 - [ ] Western Sahara - 
