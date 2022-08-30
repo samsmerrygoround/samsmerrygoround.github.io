@@ -255,36 +255,33 @@ Ascension Island (United Kingdom)
 - Andaman and Nicobar Islands 安达曼和尼科巴群岛 - India
 - Christmas Island 圣诞岛 - Australia
 - Cocos (Keeling) Islands 科科斯（基林）群岛 - Australia
-## Western Asia 西亚 (18)
+## Western Asia 西亚 (19)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-west-asia.png" alt="west-asia" width="600"/>
-### 南高加索
-### Anatolia 小亚细亚 / 安纳托利亚
-- [ ] Turkey
-### 美索不达米亚
-### 阿拉比亚
-### 黎凡特
-埃及的西奈地区
-伊朗高原
-- [ ] Iran 
-
-
-- [ ] Iraq
-- [ ] Saudi Arabia
-- [ ] Yemen
-- [ ] Syria
-- [ ] Jordan
-- [ ] Azerbaijan
-- [ ] United Arab Emirates
-- [x] Israel (IL)
-- [ ] Lebanon
-- [ ] Oman
-- [ ] State of Palestine
-- [ ] Kuwait
-- [ ] Georgia
-- [ ] Armenia
-- [ ] Qatar
-- [ ] Bahrain
-- [ ] Cyprus
+### Anatolia 安纳托利亚 / 小亚细亚 (1)
+- [ ] **Turkey** 土耳其
+### Arabian Peninsula 阿拉伯半岛 (7)
+- [ ] **Saudi Arabia** 沙特阿拉伯
+- [ ] **Yemen** 也门
+- [ ] United Arab Emirates 阿联酋
+- [ ] Oman 阿曼
+- [ ] Kuwait 科威特
+- [ ] Qatar 卡塔尔
+- [ ] Bahrain 巴林
+### South Caucasus 南高加索 (3)
+- [ ] Azerbaijan 阿塞拜疆
+- [ ] Georgia 格鲁吉亚
+- [ ] Armenia 亚美尼亚
+### Fertile Crescent 新月沃土 (6)
+- [ ] **Iraq** 伊拉克
+- [ ] **Syria** 叙利亚
+- [ ] Jordan 约旦
+- [x] Israel (IL) 以色列
+- [ ] Lebanon 黎巴嫩
+- [ ] Palestine 巴勒斯坦
+### Iranian Plateau 伊朗高原 (1)
+- [ ] **Iran** 伊朗
+### Mediterranean Sea 东地中海地区 (1)
+- [ ] Cyprus 塞浦路斯
 ## Central Asia 中亚 (5)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-asia.png" alt="central-asia" width="700"/>
 {% comment %}
