@@ -8,7 +8,7 @@ toc: true
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
 
 # 寄信展示 Sent
-## 2022 (33)
+## 2022 (34)
 {% include image-gallery.html folder="/assets/postcards/sent/2022" %}
 
 <br/>
