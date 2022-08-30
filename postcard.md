@@ -13,7 +13,7 @@ layout: article
 
 # North America 北美 (2)
 ## Canada 加拿大 (10+3)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Political_map_of_Canada.png" alt="canada" width="700"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Political_map_of_Canada.png" alt="canada" width="900"/>
 ### Provinces 省份
 - [ ] Ontario (ON) 安大略省
 - [ ] Quebec (QC) 魁北克省
@@ -31,7 +31,7 @@ layout: article
 - [ ] Nunavut (NU) 努纳武特地区
 
 ## United States of America 美国 (50+1)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Map_of_USA_with_state_and_territory_names.png" alt="usa" width="700"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Map_of_USA_with_state_and_territory_names.png" alt="usa" width="900"/>
 
 ### West 西部 (13)
 #### Pacific 太平洋 (5)
@@ -189,6 +189,31 @@ https://en.wikipedia.org/wiki/South_America
 # Asia 亚洲 (48)
 ## Eastern Asia 东亚 (5)
 ### China (x)
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/China_administrative.png" alt="china" width="900"/>
+
+#### Provinces 省 (22)
+代码	名称	简称	省会或首府	地区		代码	名称	简称	省会或首府	地区
+11	北京市	京	通州区	华北	43	湖南省	湘	长沙市	中南
+12	天津市	津	河西区	华北	44	广东省	粤	广州市	中南
+13	河北省	冀	石家庄市	华北	45	广西壮族自治区	桂	南宁市	中南
+14	山西省	晋	太原市	华北	46	海南省	琼	海口市	中南
+15	内蒙古自治区	内蒙古[2]	呼和浩特市	华北	50	重庆市	渝	渝中区	西南
+21	辽宁省	辽	沈阳市	东北	51	四川省	川/蜀	成都市	西南
+22	吉林省	吉	长春市	东北	52	贵州省	黔/贵	贵阳市	西南
+23	黑龙江省	黑	哈尔滨市	东北	53	云南省	滇/云	昆明市	西南
+31	上海市	沪	黄浦区	华东	54	西藏自治区	藏	拉萨市	西南
+32	江苏省	苏	南京市	华东	61	陕西省	陕/秦	西安市	西北
+33	浙江省	浙	杭州市	华东	62	甘肃省	甘/陇	兰州市	西北
+34	安徽省	皖	合肥市	华东	63	青海省	青	西宁市	西北
+35	福建省注	闽	福州市	华东	64	宁夏回族自治区	宁	银川市	西北
+36	江西省	赣	南昌市	华东	65	新疆维吾尔自治区	新	乌鲁木齐市	西北
+37	山东省	鲁	济南市	华东	81	香港特别行政区	港	-	中南
+41	河南省	豫	郑州市	中南	82	澳门特别行政区	澳	-	中南
+42	湖北省	鄂	武汉市	中南	83	台湾省注	台	台北市	华东
+
+#### Autonomous regions 自治区 (5)
+Municipalities (直辖市) 
+Special administrative regions (特别行政区)
 
 ### Dependencies/territories 属地及其他地区 (3)
 
