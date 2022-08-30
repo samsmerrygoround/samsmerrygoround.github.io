@@ -216,13 +216,13 @@ Ascension Island (United Kingdom)
 - [ ] Hong Kong 香港 (港) - China
 - [ ] Macau 澳门 (澳) - China
 ### Other Eastern Asia countries 其他东亚国家
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-east-asia.png" alt="east-asia" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-east-asia.png" alt="east-asia" width="800"/>
 - [x] **Japan** (JP) 日本
 - [ ] South Korea 韩国
 - [ ] North Korea 朝鲜
 - [ ] Mongolia 蒙古
 ## Southern Asia 南亚 (8)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-asia.png" alt="south-asia" width="600"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-asia.png" alt="south-asia" width="500"/>
 - [x] **India** (IN) 印度
 - [ ] **Pakistan** 巴基斯坦
 - [ ] **Bangladesh** 孟加拉国
@@ -232,13 +232,13 @@ Ascension Island (United Kingdom)
 - [ ] Bhutan 不丹
 - [ ] Maldives 马尔代夫
 ## South-eastern Asia 东南亚 (11)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-southeast-asia.png" alt="southeast-asia" width="900"/>
 ### Mainland Southeast Asia 中南半岛 (5)
 - [ ] Vietnam 越南
 - [ ] Thailand 泰国
 - [ ] Myanmar 缅甸
 - [ ] Cambodia 柬埔寨
 - [ ] Laos 老挝
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-southeast-asia.png" alt="southeast-asia" width="600"/>
 ### Maritime Southeast Asia 马来群岛 (6)
 - [ ] **Indonesia**	 印度尼西亚
 - [ ] **Philippines** 菲律宾
