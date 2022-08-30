@@ -242,19 +242,19 @@ Ascension Island (United Kingdom)
 ### Maritime Southeast Asia 马来群岛 (6)
 - [ ] **Indonesia**	 印度尼西亚
 - [ ] **Philippines** 菲律宾
-- [ ] Malaysia 马来西亚 
-	- Peninsular Malaysia 马来半岛 - 中南半岛
-	- East Malaysia 砂拉越 & 沙巴 - 马来群岛
+- [ ] Malaysia 马来西亚
+		- Peninsular Malaysia 马来半岛 - 中南半岛
+		- East Malaysia 砂拉越 & 沙巴 - 马来群岛
 - [x] Singapore 新加坡
 - [ ] East Timor 东帝汶
 - [ ] Brunei 文莱
-
-
+### Dependencies/territories 属地及其他地区 (x)
+- Andaman and Nicobar Islands 安达曼和尼科巴群岛 - India
+- Christmas Island 圣诞岛 - Australia
+- Cocos (Keeling) Islands 科科斯（基林）群岛 - Australia
 ## Western Asia 西亚 (18)
-{% comment %}
-https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BA%9A
-https://en.wikipedia.org/wiki/Western_Asia
-{% endcomment %}
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-west-asia.png" alt="west-asia" width="600"/>
+
 - [ ] Iran 
 
 - [ ] Turkey
