@@ -221,20 +221,16 @@ Ascension Island (United Kingdom)
 - [ ] South Korea 韩国
 - [ ] North Korea 朝鲜
 - [ ] Mongolia 蒙古
-## Southern Asia 南亚 (9)
-{% comment %}
-https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%9A
-https://en.wikipedia.org/wiki/South_Asia
-{% endcomment %}
-- [x] **India** (IN)
-- [ ] **Pakistan**
-- [ ] **Bangladesh**
-- [ ] Iran
-- [ ] Afghanistan
-- [ ] Nepal
-- [ ] Sri Lanka
-- [ ] Bhutan
-- [ ] Maldives
+## Southern Asia 南亚 (8)
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-asia.png" alt="south-asia" width="600"/>
+- [x] **India** (IN) 印度
+- [ ] **Pakistan** 巴基斯坦
+- [ ] **Bangladesh** 孟加拉国
+- [ ] Afghanistan 阿富汗
+- [ ] Nepal 尼泊尔
+- [ ] Sri Lanka 斯里兰卡
+- [ ] Bhutan 不丹
+- [ ] Maldives 马尔代夫
 ## South-eastern Asia 东南亚 (11)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8D%97%E4%BA%9A
@@ -256,6 +252,8 @@ https://en.wikipedia.org/wiki/Southeast_Asia
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BA%9A
 https://en.wikipedia.org/wiki/Western_Asia
 {% endcomment %}
+- [ ] Iran 
+
 - [ ] Turkey
 - [ ] Iraq
 - [ ] Saudi Arabia
