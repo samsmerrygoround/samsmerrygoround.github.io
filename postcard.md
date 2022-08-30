@@ -232,21 +232,24 @@ Ascension Island (United Kingdom)
 - [ ] Bhutan 不丹
 - [ ] Maldives 马尔代夫
 ## South-eastern Asia 东南亚 (11)
-{% comment %}
-https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8D%97%E4%BA%9A
-https://en.wikipedia.org/wiki/Southeast_Asia
-{% endcomment %}
-- [ ] **Indonesia**	
-- [ ] **Philippines**
-- [ ] Vietnam
-- [ ] Thailand
-- [ ] Myanmar
-- [ ] Malaysia
-- [ ] Cambodia
-- [ ] Laos
-- [x] Singapore
-- [ ] Timor-Leste
-- [ ] Brunei
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-southeast-asia.png" alt="southeast-asia" width="900"/>
+### Mainland Southeast Asia 中南半岛 (5)
+- [ ] Vietnam 越南
+- [ ] Thailand 泰国
+- [ ] Myanmar 缅甸
+- [ ] Cambodia 柬埔寨
+- [ ] Laos 老挝
+### Maritime Southeast Asia 马来群岛 (6)
+- [ ] **Indonesia**	 印度尼西亚
+- [ ] **Philippines** 菲律宾
+- [ ] Malaysia 马来西亚 
+	- Peninsular Malaysia 马来半岛 - 中南半岛
+	- East Malaysia 砂拉越 & 沙巴 - 马来群岛
+- [x] Singapore 新加坡
+- [ ] East Timor 东帝汶
+- [ ] Brunei 文莱
+
+
 ## Western Asia 西亚 (18)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BA%9A
