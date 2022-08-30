@@ -116,7 +116,6 @@ toc: true
 - [ ] Panama 巴拿马
 - [ ] Belize 伯利兹
 ## Caribbean 加勒比地区 (13)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-caribbean.png" alt="caribbean" width="900"/>
 - [ ] Haiti 海地
 - [ ] Cuba 古巴
 - [ ] Dominican Republic 多米尼加
@@ -130,6 +129,7 @@ toc: true
 - [ ] Antigua and Barbuda 安提瓜和巴布达
 - [ ] Dominica 多米尼克
 - [ ] Saint Kitts & Nevis 圣基茨和尼维斯
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-caribbean.png" alt="caribbean" width="900"/>
 ### Dependencies/territories 属地及其他地区 (x)
 - [ ] Puerto Rico (PR) 波多黎各 - U.S.A.
 - [ ] Guadeloupe	(GP) 瓜德罗普 - France
@@ -149,7 +149,7 @@ toc: true
 - [ ] Saint Barthelemy	圣巴泰勒米 France
 - [ ] Montserrat 蒙特塞拉特 - U.K.
 ## South America 南美 (12)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-america.png" alt="south-america" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-america.png" alt="south-america" width="500"/>
 - [ ] **Brazil** 巴西
 - [ ] **Colombia** 哥伦比亚
 - [ ] Argentina 阿根廷
