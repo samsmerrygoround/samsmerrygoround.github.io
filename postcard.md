@@ -1,6 +1,6 @@
 ---
 layout: article
-lightbox: true
+article_lightbox: true
 ---
 
 
