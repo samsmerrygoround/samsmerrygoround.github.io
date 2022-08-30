@@ -234,9 +234,7 @@ layout: base
 {%- endif -%}
 
 <script>{%- include scripts/lib/modal.js -%}</script>
-{%- if _lightbox != false -%}
-  <div class="modal d-print-none js-page-gallery-modal"><div class="gallery"></div></div>
-{%- endif -%}
+<div class="modal d-print-none js-page-gallery-modal"><div class="gallery"></div></div>
 {%- if _header != false -%}
   <div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal">{%- include search.html -%}</div>
 {%- endif -%}
@@ -247,9 +245,8 @@ layout: base
   {%- include scripts/lib/scroll-to.js -%}
   {%- include scripts/lib/affix.js -%}
   {%- include scripts/lib/toc.js -%}
-  {%- if _lightbox != false -%}
-    {%- include scripts/lib/gallery.js -%}
-    {%- include scripts/components/lightbox.js -%}
+  {%- include scripts/lib/gallery.js -%}
+  {%- include scripts/components/lightbox.js -%}
   {%- endif -%}
   {%- include scripts/page.js -%}
 </script>
