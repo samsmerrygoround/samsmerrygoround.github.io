@@ -17,9 +17,9 @@ toc_sticky: true
 ## Canada 加拿大 (10+3)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Political_map_of_Canada.png" alt="canada" width="900"/>
 ### Provinces 省份
-- [ ] Ontario (ON) 安大略省
-- [ ] Quebec (QC) 魁北克省
-- [ ] British Columbia (BC) 不列颠哥伦比亚省
+- [x] Ontario (ON) 安大略省
+- [x] Quebec (QC) 魁北克省
+- [x] British Columbia (BC) 不列颠哥伦比亚省
 - [ ] Alberta (AB) 艾伯塔省
 - [ ] Manitoba (MB) 温尼伯
 - [ ] Saskatchewan (SK) 萨斯喀彻温省
@@ -37,8 +37,8 @@ toc_sticky: true
 
 ### West 西部 (13)
 #### Pacific 太平洋 (5)
-- [ ] **California**	(CA) 加利福尼亚州
-- [ ] Washington	(WA) 华盛顿州
+- [x] **California**	(CA) 加利福尼亚州
+- [x] Washington	(WA) 华盛顿州
 - [ ] Oregon (OR) 俄勒冈州
 - [ ] Hawaii (HI) 夏威夷州
 - [ ] Alaska (AK) 阿拉斯加州
@@ -55,7 +55,7 @@ toc_sticky: true
 ### Midwest 中西部 (12)
 #### West North Central 中部西北区 (7)
 - [ ] Missouri (MO) 密苏里州
-- [ ] Minnesota (MN) 明尼苏达州
+- [x] Minnesota (MN) 明尼苏达州
 - [ ] Iowa (IA) 艾奥瓦州
 - [ ] Kansas (KS) 堪萨斯州
 - [ ] Nebraska (NE) 内布拉斯加州
@@ -65,12 +65,12 @@ toc_sticky: true
 - [ ] Illinois (IL) 伊利诺伊州
 - [ ] Ohio (OH) 俄亥俄州
 - [ ] Michigan (MI) 密歇根州
-- [ ] Indiana (IN) 印第安纳州
+- [x] Indiana (IN) 印第安纳州
 - [ ] Wisconsin (WI) 威斯康星州
 
 ### South 南部 (17)
 #### West South Central 中部西南 (4)
-- [ ] **Texas** (TX) 得克萨斯州
+- [x] **Texas** (TX) 得克萨斯州
 - [ ] Louisiana (LA) 路易斯安那州
 - [ ] Oklahoma (OK) 俄克拉荷马州
 - [ ] Arkansas (AR) 阿肯色州
@@ -81,9 +81,9 @@ toc_sticky: true
 - [ ] Mississippi (MS) 密西西比州
 #### South Atlantic 南大西洋 (9)
 - [ ] **Florida** (FL) 佛罗里达州
-- [ ] Georgia (GA) 佐治亚州
-- [ ] North Carolina (NC) 北卡罗来纳州
-- [ ] Virginia (VA) 弗吉尼亚州
+- [x] Georgia (GA) 佐治亚州
+- [x] North Carolina (NC) 北卡罗来纳州
+- [x] Virginia (VA) 弗吉尼亚州
 - [ ] Maryland (MD) 马里兰州
 - [ ] South Carolina (SC) 南卡罗来纳州
 - [ ] West Virginia (WV) 希沃特吉尼亚州
@@ -99,7 +99,7 @@ toc_sticky: true
 - [ ] Rhode Island (RI) 罗得岛州
 - [ ] Vermont (VT) 佛蒙特州
 #### Middle Atlantic 中大西洋 (3)
-- [ ] **New York** (NY) 纽约州
+- [x] **New York** (NY) 纽约州
 - [ ] **Pennsylvania** (PA) 宾夕法尼亚州
 - [ ] New Jersey (NJ) 新泽西州
 
@@ -190,38 +190,51 @@ https://en.wikipedia.org/wiki/South_America
 
 # Asia 亚洲 (48)
 ## Eastern Asia 东亚 (5)
-### China (x)
+### China (31)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/China_administrative.png" alt="china" width="900"/>
 
-#### Provinces 省 (22)
-代码	名称	简称	省会或首府	地区		代码	名称	简称	省会或首府	地区
-11	北京市	京	通州区	华北	43	湖南省	湘	长沙市	中南
-12	天津市	津	河西区	华北	44	广东省	粤	广州市	中南
-13	河北省	冀	石家庄市	华北	45	广西壮族自治区	桂	南宁市	中南
-14	山西省	晋	太原市	华北	46	海南省	琼	海口市	中南
-15	内蒙古自治区	内蒙古[2]	呼和浩特市	华北	50	重庆市	渝	渝中区	西南
-21	辽宁省	辽	沈阳市	东北	51	四川省	川/蜀	成都市	西南
-22	吉林省	吉	长春市	东北	52	贵州省	黔/贵	贵阳市	西南
-23	黑龙江省	黑	哈尔滨市	东北	53	云南省	滇/云	昆明市	西南
-31	上海市	沪	黄浦区	华东	54	西藏自治区	藏	拉萨市	西南
-32	江苏省	苏	南京市	华东	61	陕西省	陕/秦	西安市	西北
-33	浙江省	浙	杭州市	华东	62	甘肃省	甘/陇	兰州市	西北
-34	安徽省	皖	合肥市	华东	63	青海省	青	西宁市	西北
-35	福建省注	闽	福州市	华东	64	宁夏回族自治区	宁	银川市	西北
-36	江西省	赣	南昌市	华东	65	新疆维吾尔自治区	新	乌鲁木齐市	西北
-37	山东省	鲁	济南市	华东	81	香港特别行政区	港	-	中南
-41	河南省	豫	郑州市	中南	82	澳门特别行政区	澳	-	中南
-42	湖北省	鄂	武汉市	中南	83	台湾省注	台	台北市	华东
-
-#### Autonomous regions 自治区 (5)
-Municipalities (直辖市) 
-Special administrative regions (特别行政区)
+#### 华北 (5)
+- [ ] Beijing 北京市 (京)	
+- [ ] Tianjin 天津市 (津)		
+- [ ] Hebei 河北省	(冀)	
+- [ ] Shanxi 山西省	(晋)
+- [ ] Inner Mongolia 内蒙古自治区 (内蒙古)
+#### 东北 (3)
+- [ ] Liaoning 辽宁省 (辽)
+- [ ] Jilin 吉林省	(吉)
+- [ ] Heilongjiang 黑龙江省 (黑)
+#### 华东 (7)
+- [ ] Shanghai 上海市 (沪)
+- [x] Jiangsu 江苏省 (苏)
+- [x] Zhejiang 浙江省 (浙)
+- [ ] Anhui安徽省 (皖)
+- [ ] Fujian 福建省 (闽)
+- [ ] Jiangxi 江西省 (赣)
+- [ ] Shandong 山东省 (鲁)
+#### 中南 (6)
+- [ ] Henan 河南省 (豫)
+- [ ] Hubei 湖北省 (鄂)
+- [ ] Hunan 湖南省 (湘)
+- [ ] Guangdong 广东省 (粤)
+- [x] Guangxi 广西壮族自治区 (桂)
+- [ ] Hainan 海南省 (琼)
+#### 西南 (5)
+- [ ] Chongqing 重庆市 (渝)
+- [ ] Sichuan 四川省 (川/蜀)
+- [ ] Guizhou 贵州省 (黔/贵)
+- [ ] Yunnan 云南省 (滇/云)
+- [ ] Tibet 西藏自治区 (藏)
+#### 西北 (5)
+- [ ] Shaanxi 陕西省 (陕/秦)
+- [ ] Gansu 甘肃省 (甘/陇)
+- [ ] Qinghai 青海省 (青)
+- [ ] Ningxia 宁夏回族自治区 (宁)
+- [ ] Xinjiang 新疆维吾尔自治区 (新)
 
 ### Dependencies/territories 属地及其他地区 (3)
-
-- [ ] Taiwan	23,816,775	(China)
-- [ ] Hong Kong	7,496,981	China
-- [ ] Macao	649,335	China
+- [ ] Taiwan	台湾 (台)
+- [ ] Hong Kong 香港特别行政区 (港) - China
+- [ ] Macau 澳门特别行政区 (澳) - China
 
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%9A
 https://en.wikipedia.org/wiki/East_Asia
