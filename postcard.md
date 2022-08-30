@@ -3,24 +3,21 @@ title: 赛博旅行
 layout: article
 toc: true
 ---
-# 收信展示 Received
-## 2022 (19)
+## 收信展示 Received
+### 2022 (19)
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
 
-# 寄信展示 Sent
-## 2022 (34)
+## 寄信展示 Sent
+### 2022 (34)
 {% include image-gallery.html folder="/assets/postcards/sent/2022" %}
 
 <br/>
 
-
-
 ---
-点亮地图：
-
+点亮地图👇
 # North America 北美 (2)
 ## Canada (CA) 加拿大 (10+3)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Political_map_of_Canada.png" alt="canada" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-canada.png" alt="canada" width="900"/>
 ### Provinces 省份
 - [x] Ontario (ON) 安大略省
 - [x] Quebec (QC) 魁北克省
@@ -36,9 +33,8 @@ toc: true
 - [ ] Northwest Territories (NWT) 西北地区
 - [ ] Yukon (YT) 育空地区
 - [ ] Nunavut (NU) 努纳武特地区
-
 ## United States of America (US) 美国 (50+1)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Map_of_USA_with_state_and_territory_names.png" alt="usa" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-usa.png" alt="usa" width="900"/>
 ### West 西部 (13)
 #### Pacific 太平洋 (5)
 - [x] **California**	(CA) 加利福尼亚州
@@ -107,76 +103,73 @@ toc: true
 - [ ] Bermuda (BM) 百慕大 - U.K.
 - [ ] Greenland (GL) 格陵兰 - Denmark
 - [ ] Saint Pierre & Miquelon (PM) 圣皮埃尔和密克隆 - France
-
 # Latin America and the Caribbean 拉丁美洲与加勒比 (33)
 ## Central America 中美洲 (8)
-{% comment %}
-https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BE%8E%E6%B4%B2
-https://en.wikipedia.org/wiki/Latin_America_and_the_Caribbean#Political_situation
-https://en.wikipedia.org/wiki/Central_America
-{% endcomment %}
-- [ ] **Mexico**
-- [ ] Guatemala
-- [ ] Honduras
-- [ ] Nicaragua
-- [ ] El Salvador
-- [ ] Costa Rica
-- [ ] Panama
-- [ ] Belize
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-mexico.png" alt="mexico" width="900"/>
+- [ ] **Mexico** 墨西哥
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-america.png" alt="central-america" width="900"/>
+- [ ] Guatemala 危地马拉
+- [ ] Honduras 洪都拉斯
+- [ ] Nicaragua 尼加拉瓜
+- [ ] El Salvador 萨尔瓦多
+- [ ] Costa Rica 哥斯达黎加
+- [ ] Panama 巴拿马
+- [ ] Belize 伯利兹
 ## Caribbean 加勒比地区 (13)
-{% comment %}
-https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%8B%92%E6%AF%94%E5%9C%B0%E5%8C%BA
-https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%B0%E5%BA%A6%E7%BE%A4%E5%B2%9B
-https://en.wikipedia.org/wiki/Caribbean
-{% endcomment %}
-- [ ] Haiti
-- [ ] Cuba
-- [ ] Dominican Republic
-- [ ] Jamaica
-- [ ] Trinidad and Tobago
-- [ ] Bahamas
-- [ ] Barbados
-- [ ] Saint Lucia
-- [ ] Grenada
-- [ ] St. Vincent & Grenadines
-- [ ] Antigua and Barbuda
-- [ ] Dominica
-- [ ] Saint Kitts & Nevis
-## South America 南美 (12)
-{% comment %}
-https://zh.wikipedia.org/wiki/%E5%8D%97%E7%BE%8E%E6%B4%B2
-https://en.wikipedia.org/wiki/South_America
-{% endcomment %}
-- [ ] **Brazil**
-- [ ] **Colombia**	
-- [ ] Argentina
-- [ ] Peru
-- [ ] Venezuela
-- [ ] Chile
-- [ ] Ecuador
-- [ ] Bolivia
-- [ ] Paraguay
-- [ ] Uruguay
-- [ ] Guyana
-- [ ] Suriname
-## Dependencies/territories 属地及其他地区 (16)
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-caribbean.png" alt="caribbean" width="900"/>
+- [ ] Haiti 海地
+- [ ] Cuba 古巴
+- [ ] Dominican Republic 多米尼加
+- [ ] Jamaica 牙买加
+- [ ] Trinidad and Tobago 特立尼达和多巴哥
+- [ ] Bahamas 巴哈马
+- [ ] Barbados 巴巴多斯
+- [ ] Saint Lucia 圣卢西亚
+- [ ] Grenada 格林纳达
+- [ ] St. Vincent & Grenadines 圣文森特和格林纳丁斯
+- [ ] Antigua and Barbuda 安提瓜和巴布达
+- [ ] Dominica 多米尼克
+- [ ] Saint Kitts & Nevis 圣基茨和尼维斯
+### Dependencies/territories 属地及其他地区 (x)
 - [ ] Puerto Rico (PR) 波多黎各 - U.S.A.
-- [ ] Guadeloupe	(GP) - France
-- [ ] Martinique (MQ) - France
-- [ ] French Guiana	298,682	France
-- [ ] Curaçao	164,093	Netherlands
-- [ ] Aruba	106,766	Netherlands
+- [ ] Guadeloupe	(GP) 瓜德罗普 - France
+- [ ] Martinique (MQ) 马提尼克 - France
+- [ ] Curaçao 库拉索 - Netherlands
+- [ ] Aruba 阿鲁巴 - Netherlands
 - [ ] U.S. Virgin Islands (VI) 美属维尔京群岛 - U.S.A.
-- [ ] Cayman Islands	65,722	U.K.
-- [ ] Sint Maarten	42,876	Netherlands
-- [ ] Turks and Caicos	38,717	U.K.
-- [ ] British Virgin Islands	30,231	U.K.
-- [ ] Caribbean Netherlands	26,223	Netherlands
-- [ ] Anguilla	15,003	U.K.
+- [ ] Cayman Islands 开曼群岛 - U.K.
+- [ ] Sint Maarten 荷属圣马丁 - Netherlands
+- [ ] Turks and Caicos 特克斯和凯科斯群岛 - U.K.
+- [ ] British Virgin Islands 英属维尔京群岛 - U.K.
+- [ ] Caribbean Netherlands 荷兰加勒比区 / BES islands - Netherlands
+	- [ ] Bonaire 博奈尔
+	- [ ] Sint Eustatius 圣尤斯特歇斯
+	- [ ] Saba 萨巴
+- [ ] Anguilla 安圭拉 - U.K.
 - [ ] Saint Barthelemy	圣巴泰勒米 France
-- [ ] Montserrat	4,992	U.K.
-- [ ] Falkland Islands	3,480	U.K.
-
+- [ ] Montserrat 蒙特塞拉特 - U.K.
+## South America 南美 (12)
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-america.png" alt="south-america" width="900"/>
+- [ ] **Brazil** 巴西
+- [ ] **Colombia** 哥伦比亚
+- [ ] Argentina 阿根廷
+- [ ] Peru 秘鲁
+- [ ] Venezuela 委内瑞拉
+- [ ] Chile 智利
+- [ ] Ecuador 厄瓜多尔
+- [ ] Bolivia 玻利维亚
+- [ ] Paraguay 巴拉圭
+- [ ] Uruguay 乌拉圭
+- [ ] Guyana 圭亚那
+- [ ] Suriname 苏里南
+### Dependencies/territories 属地及其他地区 (x)
+- [ ] French Guiana	法属圭亚那 - France
+- [ ] Falkland Islands 福克兰群岛 - U.K.
+- [ ] South Georgia and the South Sandwich Islands 南乔治亚和南桑威奇群岛	- U.K.
+{% comment %}
+Saint Martin (France)
+Ascension Island (United Kingdom)
+{% endcomment %}
 # Asia 亚洲 (48)
 ## Eastern Asia 东亚 (5)
 ### China (CN) 中国 (31)
