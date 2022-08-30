@@ -284,16 +284,11 @@ Ascension Island (United Kingdom)
 - [ ] Cyprus 塞浦路斯
 ## Central Asia 中亚 (5)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-asia.png" alt="central-asia" width="700"/>
-{% comment %}
-https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BA%9A
-https://en.wikipedia.org/wiki/Central_Asia
-{% endcomment %}
-- [ ] Uzbekistan
-- [x] Kazakhstan (KZ)
-- [ ] Tajikistan
-- [ ] Kyrgyzstan
-- [ ] Turkmenistan
-
+- [ ] Uzbekistan 乌兹别克斯坦
+- [x] Kazakhstan (KZ) 哈萨克斯坦
+- [ ] Tajikistan 塔吉克斯坦
+- [ ] Kyrgyzstan 吉尔吉斯斯坦
+- [ ] Turkmenistan 土库曼斯坦
 # Europe 欧洲 (44)
 ## Eastern Europe (including Northern Asia) 东欧 (10)
 {% comment %}
