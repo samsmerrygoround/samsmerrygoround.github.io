@@ -1,7 +1,6 @@
 ---
 layout: article
 toc: true
-toc_sticky: true
 ---
 
 # 收信展示 Received
