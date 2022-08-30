@@ -173,7 +173,7 @@ Ascension Island (United Kingdom)
 # Asia 亚洲 (48)
 ## Eastern Asia 东亚 (5)
 ### China (CN) 中国 (31)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/China_administrative.png" alt="china" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-china.png" alt="china" width="900"/>
 #### 华北 (5)
 - [ ] Beijing 北京市 (京)	
 - [x] Tianjin 天津市 (津)		
@@ -213,17 +213,14 @@ Ascension Island (United Kingdom)
 - [ ] Xinjiang 新疆维吾尔自治区 (新)
 ### Dependencies/territories 属地及其他地区 (3)
 - [ ] Taiwan	台湾 (台)
-- [ ] Hong Kong 香港特别行政区 (港) - China
-- [ ] Macau 澳门特别行政区 (澳) - China
+- [ ] Hong Kong 香港 (港) - China
+- [ ] Macau 澳门 (澳) - China
 ### Other Eastern Asia countries 其他东亚国家
-{% comment %}
-https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%9A
-https://en.wikipedia.org/wiki/East_Asia
-{% endcomment %}
-- [x] **Japan** (JP)
-- [ ] South Korea
-- [ ] North Korea
-- [ ] Mongolia
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-east-asia.png" alt="east-asia" width="900"/>
+- [x] **Japan** (JP) 日本
+- [ ] South Korea 韩国
+- [ ] North Korea 朝鲜
+- [ ] Mongolia 蒙古
 ## Southern Asia 南亚 (9)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%9A
