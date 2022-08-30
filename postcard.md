@@ -5,9 +5,6 @@ layout: article
 寄信展示：
 {% include image-gallery.html folder="/assets/postcards/sent" %}
 
-收信展示：
-{% include image-gallery.html folder="/assets/postcards/receive" %}
-
 <br/>
 
 
@@ -18,6 +15,10 @@ layout: article
 {% comment %}
 https://jekyllcodex.org/without-plugin/lightbox/
 https://jekyllcodex.org/without-plugin/image-gallery/#
+- [ ] gallery view
+- [ ] reversed sort
+- [ ] 收信展示：
+{% include image-gallery.html folder="/assets/postcards/receive" %}
 
 # 美洲 
 ## 北美 North America
