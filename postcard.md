@@ -4,17 +4,23 @@ toc: true
 toc_sticky: true
 ---
 
-寄信展示 Sent (32)：
-{% include image-gallery.html folder="/assets/postcards/sent" %}
+# 收信展示 Received
+## 2022 (19)
+{% include image-gallery.html folder="/assets/postcards/receive/2022" %}
+
+# 寄信展示 Sent
+## 2022 (33)
+{% include image-gallery.html folder="/assets/postcards/sent/2022" %}
 
 <br/>
+
 
 
 ---
 点亮地图：
 
 # North America 北美 (2)
-## Canada 加拿大 (10+3)
+## Canada (CA) 加拿大 (10+3)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Political_map_of_Canada.png" alt="canada" width="900"/>
 ### Provinces 省份
 - [x] Ontario (ON) 安大略省
@@ -32,7 +38,7 @@ toc_sticky: true
 - [ ] Yukon (YT) 育空地区
 - [ ] Nunavut (NU) 努纳武特地区
 
-## United States of America 美国 (50+1)
+## United States of America (US) 美国 (50+1)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/Map_of_USA_with_state_and_territory_names.png" alt="usa" width="900"/>
 
 ### West 西部 (13)
@@ -80,7 +86,7 @@ toc_sticky: true
 - [ ] Kentucky (KY) 肯塔基州
 - [ ] Mississippi (MS) 密西西比州
 #### South Atlantic 南大西洋 (9)
-- [ ] **Florida** (FL) 佛罗里达州
+- [x] **Florida** (FL) 佛罗里达州
 - [x] Georgia (GA) 佐治亚州
 - [x] North Carolina (NC) 北卡罗来纳州
 - [x] Virginia (VA) 弗吉尼亚州
@@ -92,7 +98,7 @@ toc_sticky: true
 
 ### Northeast 东北部 (9)
 #### New England 新英格兰 (6)
-- [ ] Massachusetts (MA) 马萨诸塞州
+- [x] Massachusetts (MA) 马萨诸塞州
 - [ ] Connecticut (CT) 康涅狄格州
 - [ ] New Hampshire (NH) 新罕布什尔州
 - [ ] Maine (ME) 缅因州
@@ -104,9 +110,9 @@ toc_sticky: true
 - [ ] New Jersey (NJ) 新泽西州
 
 ## Dependencies/territories 属地及其他地区 (3)
-- [ ] Bermuda 百慕大 - U.K.
-- [ ] Greenland 格陵兰 - Denmark
-- [ ] Saint Pierre & Miquelon 圣皮埃尔和密克隆 - France
+- [ ] Bermuda (BM) 百慕大 - U.K.
+- [ ] Greenland (GL) 格陵兰 - Denmark
+- [ ] Saint Pierre & Miquelon (PM) 圣皮埃尔和密克隆 - France
 
 # Latin America and the Caribbean 拉丁美洲与加勒比 (33)
 ## Central America 中美洲 (8)
@@ -164,8 +170,8 @@ https://en.wikipedia.org/wiki/South_America
 
 ## Dependencies/territories 属地及其他地区 (16)
 - [ ] Puerto Rico (PR) 波多黎各 - U.S.A.
-- [ ] Guadeloupe	400,124	France
-- [ ] Martinique	375,265	France
+- [ ] Guadeloupe	(GP) - France
+- [ ] Martinique (MQ) - France
 - [ ] French Guiana	298,682	France
 - [ ] Curaçao	164,093	Netherlands
 - [ ] Aruba	106,766	Netherlands
@@ -182,12 +188,12 @@ https://en.wikipedia.org/wiki/South_America
 
 # Asia 亚洲 (48)
 ## Eastern Asia 东亚 (5)
-### China (31)
+### China (CN) 中国 (31)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/China_administrative.png" alt="china" width="900"/>
 
 #### 华北 (5)
 - [ ] Beijing 北京市 (京)	
-- [ ] Tianjin 天津市 (津)		
+- [x] Tianjin 天津市 (津)		
 - [ ] Hebei 河北省	(冀)	
 - [ ] Shanxi 山西省	(晋)
 - [ ] Inner Mongolia 内蒙古自治区 (内蒙古)
@@ -233,7 +239,7 @@ https://en.wikipedia.org/wiki/South_America
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E4%BA%9A
 https://en.wikipedia.org/wiki/East_Asia
 {% endcomment %}
-- [x] **Japan**
+- [x] **Japan** (JP)
 - [ ] South Korea
 - [ ] North Korea
 - [ ] Mongolia
@@ -243,7 +249,7 @@ https://en.wikipedia.org/wiki/East_Asia
 https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%9A
 https://en.wikipedia.org/wiki/South_Asia
 {% endcomment %}
-- [x] **India**
+- [x] **India** (IN)
 - [ ] **Pakistan**
 - [ ] **Bangladesh**
 - [ ] Iran
@@ -283,7 +289,7 @@ https://en.wikipedia.org/wiki/Western_Asia
 - [ ] Jordan
 - [ ] Azerbaijan
 - [ ] United Arab Emirates
-- [x] Israel
+- [x] Israel (IL)
 - [ ] Lebanon
 - [ ] Oman
 - [ ] State of Palestine
@@ -300,7 +306,7 @@ https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BA%9A
 https://en.wikipedia.org/wiki/Central_Asia
 {% endcomment %}
 - [ ] Uzbekistan
-- [ ] Kazakhstan
+- [x] Kazakhstan (KZ)
 - [ ] Tajikistan
 - [ ] Kyrgyzstan
 - [ ] Turkmenistan
@@ -312,7 +318,7 @@ https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%AC%A7
 https://en.wikipedia.org/wiki/Eastern_Europe
 https://en.wikipedia.org/wiki/North_Asia
 {% endcomment %}
-- [x] **Russia**
+- [x] **Russia** (RU)
 - [ ] Ukraine
 - [ ] Poland
 - [ ] Romania
@@ -328,12 +334,12 @@ https://en.wikipedia.org/wiki/North_Asia
 https://zh.wikipedia.org/wiki/%E5%8C%97%E6%AD%90
 https://en.wikipedia.org/wiki/Northern_Europe
 {% endcomment %}
-- [x] **United Kingdom**
+- [x] **United Kingdom** (GB)
 - [ ] Sweden
 - [ ] Denmark
-- [x] Finland
+- [x] Finland (FI)
 - [ ] Norway
-- [ ] Ireland
+- [x] Ireland (IE)
 - [ ] Lithuania
 - [ ] Latvia
 - [ ] Estonia
@@ -347,7 +353,7 @@ https://en.wikipedia.org/wiki/Southern_Europe
 - [ ] **Italy**
 - [ ] Spain
 - [ ] Greece
-- [x] Portugal
+- [x] Portugal (PT)
 - [ ] Serbia
 - [ ] Croatia
 - [ ] Bosnia and Herzegovina
@@ -365,9 +371,9 @@ https://en.wikipedia.org/wiki/Southern_Europe
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%AC%A7
 https://en.wikipedia.org/wiki/Western_Europe
 {% endcomment %}
-- [x] **Germany**
+- [x] **Germany** (DE)
 - [ ] **France**
-- [x] Netherlands
+- [x] Netherlands (NL)
 - [ ] Belgium
 - [ ] Austria
 - [ ] Switzerland
@@ -407,7 +413,7 @@ https://en.wikipedia.org/wiki/Western_Europe
 - [ ] American Samoa (AS) 美属萨摩亚 - U.S.A.
 - [ ] Northern Mariana Islands (MP) 北马里亚纳群岛 - U.S.A.
 - [ ] Cook Islands - free association with New Zealand
-- [ ] Wallis & Futuna - France
+- [ ] Wallis & Futuna (WF) - France
 - [ ] Niue - free association with New Zealand
 - [ ] Tokelau - New Zealand
 
@@ -502,17 +508,22 @@ https://en.wikipedia.org/wiki/West_Africa
 - [ ] Mayotte - France
 - [ ] Saint Helena - U.K.
 
+# Antarctica 南极洲 (1)
+- [ ] Antarctica (AQ) 南极洲
+
 {% comment %}
 https://jekyllcodex.org/without-plugin/lightbox/
 https://jekyllcodex.org/without-plugin/image-gallery/#
 - [ ] gallery view - slide
 - [ ] reversed sort
-- [ ] 收信展示 ()：
-    {% include image-gallery.html folder="/assets/postcards/receive" %}
 {% endcomment %}
 
 
 {% comment %}
+https://www.postcrossing.com/explore/countries
+- [ ] ADD CODE
+- [ ] CROSS REF
+
 https://www.worldometers.info/geography/how-many-countries-are-there-in-the-world/
 
 https://www.worldometers.info/world-population/population-by-country/
