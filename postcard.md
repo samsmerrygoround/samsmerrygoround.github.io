@@ -2,7 +2,7 @@
 layout: article
 ---
 
-寄信展示：
+寄信展示 Sent (32)：
 {% include image-gallery.html folder="/assets/postcards/sent" %}
 
 <br/>
@@ -17,7 +17,7 @@ https://jekyllcodex.org/without-plugin/lightbox/
 https://jekyllcodex.org/without-plugin/image-gallery/#
 - [ ] gallery view
 - [ ] reversed sort
-- [ ] 收信展示：
+- [ ] 收信展示 ()：
 {% include image-gallery.html folder="/assets/postcards/receive" %}
 
 # 美洲 
@@ -29,7 +29,56 @@ https://jekyllcodex.org/without-plugin/image-gallery/#
 
 ## 南美 South America
 
-# 亚洲
+# 亚洲 Asia
+- [ ] Afghanistan
+- [ ] Armenia
+- [ ] Azerbaijan
+- [ ] Bahrain
+- [ ] Bangladesh
+- [ ] Bhutan
+- [ ] Brunei
+- [ ] Cambodia
+- [ ] China
+- [ ] East Timor
+- [ ] Georgia
+- [ ] India
+- [ ] Indonesia
+- [ ] Iran
+- [ ] Iraq
+- [ ] Israel
+- [ ] Japan
+- [ ] Jordan
+Kazakhstan - Nur-Sultan
+Kuwait - Kuwait City
+Kyrgyzstan - Bishkek
+Laos - Vientiane
+Lebanon (Lubnan) - Beirut
+Malaysia - Kuala Lumpur
+The Maldives - Malé
+Mongolia - Ulaanbaatar
+Myanmar (Burma) - Naypyidaw
+Nepal - Kathmandu
+North Korea - Pyongyang
+Oman - Muscat
+Pakistan - Islamabad
+Palestine - Ramallah
+The Philippines - Manila
+Qatar - Doha
+Russia - Moscow (Russia is a part of Asia geographically, but, politically, it is a part of Europe)
+Saudi Arabia - Riyadh
+Singapore - Singapore
+South Korea - Seoul
+Sri Lanka - Sri Jayawardenapura Kotte (administrative), Colombo (commercial)
+Syria - Damascus
+Tajikistan - Dushanbe
+Thailand (Muang Thai) - Bangkok
+Turkey (Türkiye) - Ankara
+Turkmenistan - Aşgabat
+Taiwan - Taipei
+United Arab Emirates - Abu Dhabi
+Uzbekistan - Tashkent
+Vietnam - Hanoi
+Yemen - Sana'a
 
 # 欧洲
 # 大洋洲
@@ -69,87 +118,33 @@ https://jekyllcodex.org/without-plugin/image-gallery/#
 - [ ] Mauritius
 - [ ] Morocco
 - [ ] Mozambique
-- [ ] Namibia - Windhoek
-- [ ] Niger - Niamey
-- [ ] Nigeria - Abuja
+- [ ] Namibia
+- [ ] Niger
+- [ ] Nigeria
 - [ ] Réunion (territory of France)
-- [ ] Rwanda - Kigali
-- [ ] São Tomé and Príncipe - São Tomé
-- [ ] Senegal - Dakar
-- [ ] Seychelles - Victoria
-- [ ] Sierra Leone - Freetown
-- [ ] Somalia - Mogadishu
-- [ ] South Africa - Pretoria
-- [ ] South Sudan - Juba
-- [ ] Sudan - Khartoum
-- [ ] Swaziland (Eswatini) - Mbabane
-- [ ] Tanzania - Dodoma
-- [ ] Togo - Lome
+- [ ] Rwanda
+- [ ] São Tomé and Príncipe
+- [ ] Senegal
+- [ ] Seychelles
+- [ ] Sierra Leone
+- [ ] Somalia
+- [ ] South Africa
+- [ ] South Sudan
+- [ ] Sudan
+- [ ] Eswatini (Swaziland)
+- [ ] Tanzania
+- [ ] Togo
 - [ ] Tunisia - Tunis
 - [ ] Uganda - Kampala
-- [ ] Western Sahara - El Aaiún (disputed)
-- [ ] Zambia - Lusaka
-- [ ] Zimbabwe - Harare
+- [ ] Western Sahara
+- [ ] Zambia
+- [ ] Zimbabwe
 
-Western Sahara (Listed in Sl No.53 above /*Africa*/) is not a UN Member as on 18/07/2021
 
-Antarctica
-Antarctica is Earth's southernmost continent. It contains the geographic South Pole and is in the Antarctic region of the Southern Hemisphere, almost entirely south of the Antarctic Circle. It is surrounded by the Southern Ocean. At 14,000,000 square kilometres (5,400,000 square miles), it is the fifth-largest continent. For comparison, Antarctica is nearly twice the size of Australia.
 
-About 98% of Antarctica is covered by ice. However, there is a large part where the ice does not cover land: the ice shelves. There are important geographical features covered by the ice. The huge Lake Vostok has been covered by ice for at least 15 million years. There is a massive rift valley and a huge mountain range, both of which are covered at present.
 
-Asia
-Asia is the largest and most populous continent and is a continent in the seven continent system. Asia consists of forty-nine countries as per the United Nations along with many other highly autonomous regions and disputed areas that are often generalised as countries of their own.
 
-Afghanistan - Kabul
-Armenia - Yerevan
-Azerbaijan - Baku
-Bahrain - Manama
-Bangladesh [1](বাংলাদেশ) - Dhaka (ঢাকা)
-Bhutan - Thimphu
-Brunei - Bandar Seri Begawan
-Cambodia (Kampuchea) - Phnom Penh
-China - Beijing
-East Timor (Timor Leste) - Dili
-Georgia - Tbilisi
-India - New Delhi
-Indonesia - Jakarta
-Iran - Tehran
-Iraq - Baghdad
-Israel - Jerusalem
-Japan - Tokyo
-Jordan (Al Urdun) - Amman
-Kazakhstan - Nur-Sultan
-Kuwait - Kuwait City
-Kyrgyzstan - Bishkek
-Laos - Vientiane
-Lebanon (Lubnan) - Beirut
-Malaysia - Kuala Lumpur
-The Maldives - Malé
-Mongolia - Ulaanbaatar
-Myanmar (Burma) - Naypyidaw
-Nepal - Kathmandu
-North Korea - Pyongyang
-Oman - Muscat
-Pakistan - Islamabad
-Palestine - Ramallah
-The Philippines - Manila
-Qatar - Doha
-Russia - Moscow (Russia is a part of Asia geographically, but, politically, it is a part of Europe)
-Saudi Arabia - Riyadh
-Singapore - Singapore
-South Korea - Seoul
-Sri Lanka - Sri Jayawardenapura Kotte (administrative), Colombo (commercial)
-Syria - Damascus
-Tajikistan - Dushanbe
-Thailand (Muang Thai) - Bangkok
-Turkey (Türkiye) - Ankara
-Turkmenistan - Aşgabat
-Taiwan - Taipei
-United Arab Emirates - Abu Dhabi
-Uzbekistan - Tashkent
-Vietnam - Hanoi
-Yemen - Sana'a
+
 Europe
 Europe is the second smallest continent, but the third most populous. It is a continent in one of the seven continent systems and the seven continent system. In other systems it is part of Asia, Eurasia or Eurafrasia. Below is the list of fully sovereign or de facto countries that are indisputably either entirely or partially situated within Europe. The 49 countries are:
 
