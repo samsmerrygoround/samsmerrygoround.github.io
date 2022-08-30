@@ -2,23 +2,22 @@
 layout: article
 ---
 
+寄信展示：
+{% include image-gallery.html folder="/assets/postcards/sent" %}
 
-{% include image-gallery.html folder="/assets/postcards" %}
-
-
+收信展示：
+{% include image-gallery.html folder="/assets/postcards/receive" %}
 
 <br/>
 
-
-- [ ] Algeria
-- [ ] Angola
 
 
 
 
 
 {% comment %}
-
+https://jekyllcodex.org/without-plugin/lightbox/
+https://jekyllcodex.org/without-plugin/image-gallery/#
 
 # 美洲 
 ## 北美 North America
