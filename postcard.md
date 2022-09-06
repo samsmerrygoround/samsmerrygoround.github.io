@@ -15,6 +15,7 @@ toc: true
 
 ---
 点亮地图👇
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-world.png" alt="world" width="900"/>
 # North America 北美 (2)
 ## Canada (CA) 加拿大 (10+3)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-canada.png" alt="canada" width="700"/>
@@ -290,13 +291,14 @@ Ascension Island (United Kingdom)
 - [ ] Kyrgyzstan 吉尔吉斯斯坦
 - [ ] Turkmenistan 土库曼斯坦
 # Europe 欧洲 (44)
-## Eastern Europe (including Northern Asia) 东欧 (10)
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-???.png" alt="???" width="700"/>
+## Eastern Europe 东欧 (10)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%AC%A7
 https://en.wikipedia.org/wiki/Eastern_Europe
 https://en.wikipedia.org/wiki/North_Asia
 {% endcomment %}
-- [x] **Russia** (RU)
+- [x] **Russia** (RU) (including Northern Asia) 俄罗斯
 - [ ] Ukraine
 - [ ] Poland
 - [ ] Romania
@@ -307,20 +309,30 @@ https://en.wikipedia.org/wiki/North_Asia
 - [ ] Slovakia
 - [ ] Moldova
 ## Northern Europe 北欧 (10)
-{% comment %}
-https://zh.wikipedia.org/wiki/%E5%8C%97%E6%AD%90
-https://en.wikipedia.org/wiki/Northern_Europe
-{% endcomment %}
-- [x] **United Kingdom** (GB)
-- [ ] Sweden
-- [ ] Denmark
-- [x] Finland (FI)
-- [ ] Norway
-- [x] Ireland (IE)
-- [ ] Lithuania
-- [ ] Latvia
-- [ ] Estonia
-- [ ] Iceland
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-north-europe.png" alt="north-europe" width="700"/>
+- [x] **United Kingdom** (GB) 英国
+	- [ ] England 英格兰
+	- [ ] Scotland 苏格兰
+	- [ ] Wales 威尔士
+	- [ ] Northern Ireland 北爱尔兰
+	- [ ] Channel Islands 海峡群岛 - U.K.
+		- [ ] Guernsey 根西
+		- [ ] Jersey 泽西
+	- [ ] Isle of Man 马恩岛 - U.K.
+	- [ ] Gibraltar 直布罗陀 - U.K. (Southern Europe)
+- [x] Ireland (IE) 爱尔兰
+- [ ] Iceland 冰岛
+- [ ] Norway 挪威
+	- [ ] Svalbard and Jan Mayen 斯瓦尔巴和扬马延 - Norway
+- [ ] Sweden 瑞典
+- [x] Finland (FI) 芬兰
+	- [ ] Åland Islands 奥兰 - Finland
+- [ ] Denmark 丹麦
+	- [ ] Faroe Islands 法罗群岛 - Denmark
+- [ ] Estonia 爱沙尼亚
+- [ ] Latvia 拉脱维亚
+- [ ] Lithuania 立陶宛
+
 ## Southern Europe 南欧 (15)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8D%97%E6%AC%A7
@@ -331,6 +343,10 @@ https://en.wikipedia.org/wiki/Southern_Europe
 - [ ] Greece
 - [x] Portugal (PT)
 - [ ] Serbia
+
+## Dependencies/territories 属地及其他地区 (4)
+- [ ] Kosovo (from Serbia)
+
 - [ ] Croatia
 - [ ] Bosnia and Herzegovina
 - [ ] Albania
@@ -355,11 +371,6 @@ https://en.wikipedia.org/wiki/Western_Europe
 - [ ] Luxembourg
 - [ ] Monaco
 - [ ] Liechtenstein
-## Dependencies/territories 属地及其他地区 (4)
-- [ ] Channel Islands - U.K.
-- [ ] Isle of Man - U.K.
-- [ ] Faeroe Islands - Denmark
-- [ ] Gibraltar - U.K.
 
 # Oceania 大洋洲 (14+2)
 ## Australasia 澳大拉西亚 (2)
