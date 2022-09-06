@@ -15,7 +15,7 @@ toc: true
 
 ---
 点亮地图👇
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-world.png" alt="world" width="900"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-world.png" alt="world" width="700"/>
 # North America 北美 (2)
 ## Canada (CA) 加拿大 (10+3)
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-canada.png" alt="canada" width="700"/>
@@ -291,7 +291,7 @@ Ascension Island (United Kingdom)
 - [ ] Kyrgyzstan 吉尔吉斯斯坦
 - [ ] Turkmenistan 土库曼斯坦
 # Europe 欧洲 (44)
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-???.png" alt="???" width="700"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-europe.png" alt="map-europe" width="700"/>
 ## Eastern Europe 东欧 (10)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%AC%A7
