@@ -15,10 +15,14 @@ toc: true
 
 ---
 点亮地图👇
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-world.png" alt="world" width="700"/>
+
 # North America 北美 (2)
 ## Canada (CA) 加拿大 (10+3)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-canada.png" alt="canada" width="700"/>
+
 ### Provinces 省份
 - [x] Ontario (ON) 安大略省
 - [x] Quebec (QC) 魁北克省
@@ -35,7 +39,9 @@ toc: true
 - [ ] Yukon (YT) 育空地区
 - [ ] Nunavut (NU) 努纳武特地区
 ## United States of America (US) 美国 (50+1)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-usa.png" alt="usa" width="700"/>
+
 ### West 西部 (13)
 #### Pacific 太平洋 (5)
 - [x] **California**	(CA) 加利福尼亚州
@@ -106,10 +112,13 @@ toc: true
 - [ ] Saint Pierre & Miquelon (PM) 圣皮埃尔和密克隆 - France
 # Latin America and the Caribbean 拉丁美洲与加勒比 (33)
 ## Central America 中美洲 (8)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-mexico.png" alt="mexico" width="500"/>
+
 - [ ] **Mexico** 墨西哥
 
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-america.png" alt="central-america" width="700"/>
+
 - [ ] Guatemala 危地马拉
 - [ ] Honduras 洪都拉斯
 - [ ] Nicaragua 尼加拉瓜
@@ -133,6 +142,7 @@ toc: true
 - [ ] Saint Kitts & Nevis 圣基茨和尼维斯
 
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-caribbean.png" alt="caribbean" width="700"/>
+
 ### Dependencies/territories 属地及其他地区 (x)
 - [ ] Puerto Rico (PR) 波多黎各 - U.S.A.
 - [ ] Guadeloupe	(GP) 瓜德罗普 - France
@@ -152,7 +162,9 @@ toc: true
 - [ ] Saint Barthelemy	圣巴泰勒米 France
 - [ ] Montserrat 蒙特塞拉特 - U.K.
 ## South America 南美 (12)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-america.png" alt="south-america" width="480"/>
+
 - [ ] **Brazil** 巴西
 - [ ] **Colombia** 哥伦比亚
 - [ ] Argentina 阿根廷
@@ -176,7 +188,9 @@ Ascension Island (United Kingdom)
 # Asia 亚洲 (48)
 ## Eastern Asia 东亚 (5)
 ### China (CN) 中国 (31)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-china.png" alt="china" width="700"/>
+
 #### 华北 (5)
 - [ ] Beijing 北京市 (京)	
 - [x] Tianjin 天津市 (津)		
@@ -219,13 +233,17 @@ Ascension Island (United Kingdom)
 - [ ] Hong Kong 香港 (港) - China
 - [ ] Macau 澳门 (澳) - China
 ### Other Eastern Asia countries 其他东亚国家
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-east-asia.png" alt="east-asia" width="700"/>
+
 - [x] **Japan** (JP) 日本
 - [ ] South Korea 韩国
 - [ ] North Korea 朝鲜
 - [ ] Mongolia 蒙古
 ## Southern Asia 南亚 (8)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-south-asia.png" alt="south-asia" width="480"/>
+
 - [x] **India** (IN) 印度
 - [ ] **Pakistan** 巴基斯坦
 - [ ] **Bangladesh** 孟加拉国
@@ -243,6 +261,7 @@ Ascension Island (United Kingdom)
 - [ ] Laos 老挝
 
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-southeast-asia.png" alt="southeast-asia" width="700"/>
+
 ### Maritime Southeast Asia 马来群岛 (6)
 - [ ] **Indonesia**	 印度尼西亚
 - [ ] **Philippines** 菲律宾
@@ -257,7 +276,9 @@ Ascension Island (United Kingdom)
 - Christmas Island 圣诞岛 - Australia
 - Cocos (Keeling) Islands 科科斯（基林）群岛 - Australia
 ## Western Asia 西亚 (19)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-west-asia.png" alt="west-asia" width="600"/>
+
 ### Anatolia 安纳托利亚 / 小亚细亚 (1)
 - [ ] **Turkey** 土耳其
 ### Arabian Peninsula 阿拉伯半岛 (7)
@@ -284,14 +305,18 @@ Ascension Island (United Kingdom)
 ### Mediterranean Sea 东地中海地区 (1)
 - [ ] Cyprus 塞浦路斯
 ## Central Asia 中亚 (5)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-central-asia.png" alt="central-asia" width="700"/>
+
 - [ ] Uzbekistan 乌兹别克斯坦
 - [x] Kazakhstan (KZ) 哈萨克斯坦
 - [ ] Tajikistan 塔吉克斯坦
 - [ ] Kyrgyzstan 吉尔吉斯斯坦
 - [ ] Turkmenistan 土库曼斯坦
 # Europe 欧洲 (44)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-europe.png" alt="map-europe" width="700"/>
+
 ## Eastern Europe 东欧 (10)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%AC%A7
@@ -309,18 +334,14 @@ https://en.wikipedia.org/wiki/North_Asia
 - [ ] Slovakia
 - [ ] Moldova
 ## Northern Europe 北欧 (10)
+
 <img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/map-north-europe.png" alt="north-europe" width="700"/>
-- [x] **United Kingdom** (GB) 英国
-	- [ ] England 英格兰
-	- [ ] Scotland 苏格兰
-	- [ ] Wales 威尔士
-	- [ ] Northern Ireland 北爱尔兰
-	- [ ] Channel Islands 海峡群岛 - U.K.
-		- [ ] Guernsey 根西
-		- [ ] Jersey 泽西
-	- [ ] Isle of Man 马恩岛 - U.K.
-	- [ ] Gibraltar 直布罗陀 - U.K. (Southern Europe)
-- [x] Ireland (IE) 爱尔兰
+
+### Baltic States 波罗的海三国 (3)
+- [ ] Estonia 爱沙尼亚
+- [ ] Latvia 拉脱维亚
+- [ ] Lithuania 立陶宛
+### Nordic Europe 北欧五国 (5)
 - [ ] Iceland 冰岛
 - [ ] Norway 挪威
 	- [ ] Svalbard and Jan Mayen 斯瓦尔巴和扬马延 - Norway
@@ -329,10 +350,18 @@ https://en.wikipedia.org/wiki/North_Asia
 	- [ ] Åland Islands 奥兰 - Finland
 - [ ] Denmark 丹麦
 	- [ ] Faroe Islands 法罗群岛 - Denmark
-- [ ] Estonia 爱沙尼亚
-- [ ] Latvia 拉脱维亚
-- [ ] Lithuania 立陶宛
-
+### British Isles 不列颠群岛 (2)
+- [x] **United Kingdom** / Great Britain (GB) 英国
+	- England 英格兰
+	- Scotland 苏格兰
+	- Wales 威尔士
+	- Northern Ireland 北爱尔兰
+	- Channel Islands 海峡群岛 - U.K.
+		- [ ] Guernsey 根西
+		- [ ] Jersey 泽西
+	- [ ] Isle of Man 马恩岛 / 曼岛 - U.K.
+	- [ ] Gibraltar 直布罗陀 - U.K. (Southern Europe)
+- [x] Ireland (IE) 爱尔兰
 ## Southern Europe 南欧 (15)
 {% comment %}
 https://zh.wikipedia.org/wiki/%E5%8D%97%E6%AC%A7
