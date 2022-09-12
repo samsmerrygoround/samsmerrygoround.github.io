@@ -4,11 +4,11 @@ layout: article
 toc: true
 ---
 ## 收信展示 Received
-### 2022 (19)
+### 2022 (22)
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
 
 ## 寄信展示 Sent
-### 2022 (34)
+### 2022 (38)
 {% include image-gallery.html folder="/assets/postcards/sent/2022" %}
 
 <br/>
