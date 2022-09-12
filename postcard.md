@@ -72,7 +72,7 @@ toc: true
 - [ ] 07 Ohio (OH) 俄亥俄州
 - [ ] 10 Michigan (MI) 密歇根州
 - [x] 17 Indiana (IN) 印第安纳州
-- [ ] 20 Wisconsin (WI) 威斯康星州
+- [x] 20 Wisconsin (WI) 威斯康星州
 ### South 南部 (17)
 #### West South Central 中部西南 (4)
 - [x] 02 **Texas** (TX) 得克萨斯州
@@ -80,7 +80,7 @@ toc: true
 - [ ] 28 Oklahoma (OK) 俄克拉荷马州
 - [ ] 33 Arkansas (AR) 阿肯色州
 #### East South Central 中部东南 (4)
-- [ ] 16 Tennessee (TN) 田纳西州
+- [x] 16 Tennessee (TN) 田纳西州
 - [ ] 24 Alabama (AL) 亚拉巴马州
 - [ ] 26 Kentucky (KY) 肯塔基州
 - [ ] 34 Mississippi (MS) 密西西比州
@@ -360,7 +360,7 @@ https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%AC%A7
 https://en.wikipedia.org/wiki/Western_Europe
 {% endcomment %}
 - [x] 017 Germany / Deutschland (DE) 德国
-- [ ] 021 France (FR) 法国
+- [x] 021 France (FR) 法国
 - [x] 067 Netherlands (NL) 荷兰
 - [ ] 079 Belgium (BE) 比利时
 - [ ] 097 Austria (AT) 奥地利
@@ -396,7 +396,7 @@ https://en.wikipedia.org/wiki/Southern_Europe
 
 ## Australasia 澳大拉西亚 (2)
 - [ ] 055 Australia (AU) 澳大利亚
-- [ ] 121 New Zealand (NZ) 新西兰
+- [x] 121 New Zealand (NZ) 新西兰
 - [ ] 241 Christmas Island (CX) 圣诞岛 - Australia
 - [ ] 244 Cocos (Keeling) Islands (CC) 科科斯（基林）群岛 - Australia
 - [ ] 240 Norfolk Island (NF) 诺福克岛 - Australia
