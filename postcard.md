@@ -263,8 +263,8 @@ toc: true
 - [ ] 004 **Indonesia** (ID) 印度尼西亚
 - [ ] 013 **Philippines** (PH) 菲律宾
 - [ ] 044 Malaysia (MY) 马来西亚
-		- Peninsular Malaysia 马来半岛 - 中南半岛
-		- East Malaysia 砂拉越 & 沙巴 - 马来群岛
+	- [ ] Peninsular Malaysia 马来半岛 - 中南半岛
+	- [ ] East Malaysia 砂拉越 & 沙巴 - 马来群岛
 - [x] 115 Singapore (SG) 新加坡
 - [ ] 157 Timor-Leste / East Timor (TL) 东帝汶
 - [ ] 177 Brunei Darussalam (BN) 文莱达鲁萨兰国
@@ -312,7 +312,6 @@ toc: true
 
 ## Eastern Europe 东欧 (10)
 {% comment %}
-https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%AC%A7
 https://en.wikipedia.org/wiki/Eastern_Europe
 {% endcomment %}
 - [x] 009 **Russia** / Russian Federation (RU) (including Northern Asia / Siberia) 俄罗斯联邦
@@ -344,11 +343,11 @@ https://en.wikipedia.org/wiki/Eastern_Europe
 	- [ ] 214 Faroe Islands / Faeroes (FO) 法罗群岛 - Denmark
 ### British Isles 不列颠群岛 (2)
 - [x] 022 United Kingdom / of Great Britain and Northern Ireland (GB) 英国 / 大不列颠及北爱尔兰联合王国
-	- England 英格兰
-	- Scotland 苏格兰
-	- Wales 威尔士
-	- Northern Ireland 北爱尔兰
-	- 191 Channel Islands 海峡群岛 - U.K.
+	- [ ] England 英格兰
+	- [ ] Scotland 苏格兰
+	- [ ] Wales 威尔士
+	- [ ] Northern Ireland 北爱尔兰
+	- [ ] 191 Channel Islands 海峡群岛 - U.K.
 		- [ ] 206 Guernsey (GG) 格恩西
 		- [ ] 202 Jersey (JE) 泽西
 	- [ ] 203 Isle of Man (IM) 马恩岛 / 曼岛 - U.K.
