@@ -4,7 +4,7 @@ layout: article
 toc: true
 ---
 ## 收信展示 Received
-### 2022 (22)
+### 2022 (24)
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
 
 ## 寄信展示 Sent
@@ -362,7 +362,7 @@ https://en.wikipedia.org/wiki/Western_Europe
 - [x] 021 France (FR) 法国
 - [x] 067 Netherlands (NL) 荷兰
 - [ ] 079 Belgium (BE) 比利时
-- [ ] 097 Austria (AT) 奥地利
+- [x] 097 Austria (AT) 奥地利
 - [ ] 099 Switzerland (CH) 瑞士
 - [ ] 170 Luxembourg (LU) 卢森堡
 - [ ] 216 Monaco (MC) 摩纳哥
