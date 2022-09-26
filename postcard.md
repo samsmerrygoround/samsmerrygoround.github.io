@@ -4,7 +4,7 @@ layout: article
 toc: true
 ---
 ## 收信展示 Received
-### 2022 (24)
+### 2022 (26)
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
 
 ## 寄信展示 Sent
@@ -226,7 +226,7 @@ toc: true
 - [ ] 29 Ningxia 宁夏回族自治区 (宁)
 - [ ] 24 Xinjiang 新疆维吾尔自治区 (新)
 ### Dependencies/territories 属地及其他地区 (3)
-- [ ] 056 Taiwan (TW) 台湾 (台)
+- [x] 056 Taiwan (TW) 台湾 (台)
 - [ ] 103 Hong Kong (HK) 香港 (港) - China
 - [ ] 168 Macao (MO) 澳门 (澳) - China
 ### Other Eastern Asia countries 其他东亚国家 (4)
