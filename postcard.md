@@ -104,7 +104,7 @@ toc: true
 - [ ] 50 Vermont (VT) 佛蒙特州
 #### Middle Atlantic 中大西洋 (3)
 - [x] 04 **New York** (NY) 纽约州
-- [ ] 05 **Pennsylvania** (PA) 宾夕法尼亚州
+- [x] 05 **Pennsylvania** (PA) 宾夕法尼亚州
 - [ ] 11 New Jersey (NJ) 新泽西州
 ## Dependencies/territories 属地及其他地区 (3)
 - [ ] 208 Bermuda (BM) 百慕大 - U.K.
