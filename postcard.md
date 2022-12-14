@@ -50,7 +50,7 @@ toc: true
 - [ ] 40 Hawaii (HI) 夏威夷州
 - [ ] 48 Alaska (AK) 阿拉斯加州
 #### Mountain 山地 (8)
-- [ ] 14 Arizona (AZ) 亚利桑那州
+- [x] 14 Arizona (AZ) 亚利桑那州
 - [ ] 21 Colorado (CO) 科罗拉多州
 - [ ] 30 Utah (UT) 犹他州
 - [ ] 32 Nevada (NV) 内华达州
@@ -227,7 +227,7 @@ toc: true
 - [ ] 24 Xinjiang 新疆维吾尔自治区 (新)
 ### Dependencies/territories 属地及其他地区 (3)
 - [x] 056 Taiwan (TW) 台湾 (台)
-- [ ] 103 Hong Kong (HK) 香港 (港) - China
+- [x] 103 Hong Kong (HK) 香港 (港) - China
 - [ ] 168 Macao (MO) 澳门 (澳) - China
 ### Other Eastern Asia countries 其他东亚国家 (4)
 
@@ -316,11 +316,11 @@ https://en.wikipedia.org/wiki/Eastern_Europe
 {% endcomment %}
 - [x] 009 **Russia** / Russian Federation (RU) (including Northern Asia / Siberia) 俄罗斯联邦
 - [ ] 031 Ukraine (UA) 乌克兰
-- [x] 037 Poland (PL) 波兰
+- [x] 037 Poland (PL) 波兰 
 - [x] 060 Romania (RO) 罗马尼亚
 - [ ] 086 Czechia / Czech Republic (CZ) 捷克
 - [ ] 091 Hungary (HU) 匈牙利
-- [ ] 094 Belarus (BY) 白俄罗斯
+- [x] 094 Belarus (BY) 白俄罗斯
 - [ ] 105 Bulgaria (BG) 保加利亚
 - [ ] 117 Slovakia (SK) 斯洛伐克
 - [ ] 132 Moldova, Republic of (MD) 摩尔多瓦共和国
@@ -363,7 +363,7 @@ https://en.wikipedia.org/wiki/Western_Europe
 - [x] 067 Netherlands (NL) 荷兰
 - [ ] 079 Belgium (BE) 比利时
 - [x] 097 Austria (AT) 奥地利
-- [ ] 099 Switzerland (CH) 瑞士
+- [x] 099 Switzerland (CH) 瑞士
 - [ ] 170 Luxembourg (LU) 卢森堡
 - [ ] 216 Monaco (MC) 摩纳哥
 - [ ] 217 Liechtenstein (LI) 列支敦士登
