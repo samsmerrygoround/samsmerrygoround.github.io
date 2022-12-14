@@ -4,7 +4,7 @@ layout: article
 toc: true
 ---
 ## 收信展示 Received
-### 2022 (26)
+### 2022 (41)
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
 
 ## 寄信展示 Sent
