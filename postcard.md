@@ -8,7 +8,7 @@ toc: true
 {% include image-gallery.html folder="/assets/postcards/receive/2022" %}
 
 ## 寄信展示 Sent
-### 2022 (38)
+### 2022 (51)
 {% include image-gallery.html folder="/assets/postcards/sent/2022" %}
 
 <br/>
@@ -316,8 +316,8 @@ https://en.wikipedia.org/wiki/Eastern_Europe
 {% endcomment %}
 - [x] 009 **Russia** / Russian Federation (RU) (including Northern Asia / Siberia) 俄罗斯联邦
 - [ ] 031 Ukraine (UA) 乌克兰
-- [ ] 037 Poland (PL) 波兰
-- [ ] 060 Romania (RO) 罗马尼亚
+- [x] 037 Poland (PL) 波兰
+- [x] 060 Romania (RO) 罗马尼亚
 - [ ] 086 Czechia / Czech Republic (CZ) 捷克
 - [ ] 091 Hungary (HU) 匈牙利
 - [ ] 094 Belarus (BY) 白俄罗斯
