@@ -3,7 +3,6 @@ title: 确认过眼神，我遇上对的人
 date: 2022-06-20T18:00:00-05:00
 tags:
   - 初恋五十次
-  - 宝拉
 toc: true
 toc_sticky: false
 ---
