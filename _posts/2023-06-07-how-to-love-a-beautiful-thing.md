@@ -1,5 +1,5 @@
 ---
-title: How to love
+title: How to love a beautiful thing
 date: 2023-06-07T18:00:00-05:00
 tags:
   - 初恋五十次
