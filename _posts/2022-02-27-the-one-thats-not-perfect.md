@@ -3,7 +3,6 @@ title: S1E5 The one that's not perfect
 date: 2022-02-27T23:00:00-05:00
 tags:
   - 读博成长记
-  - 书影乐播
 toc: true
 toc_sticky: false
 excerpt: Not a perfect take, but what is perfect

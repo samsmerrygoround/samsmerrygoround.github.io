@@ -3,7 +3,6 @@ title: S1E7 The one who procrastinates
 date: 2022-04-11T23:00:00-05:00
 tags:
   - 读博成长记
-  - 书影乐播
 toc: true
 toc_sticky: false
 excerpt: 爱自己，除了爱自己的优点，也要接受自己的缺点。

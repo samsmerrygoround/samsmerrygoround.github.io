@@ -4,7 +4,6 @@ date: 2022-02-11T19:00:00-04:00
 last_modified_at: 2022-02-11T19:00:00-04:00
 tags:
   - 读博成长记
-  - 书影乐播
 toc: true
 toc_sticky: false
 excerpt: Picking up where I left off.
