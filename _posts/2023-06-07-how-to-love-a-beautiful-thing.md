@@ -20,7 +20,9 @@ Also I say you are good enough of course not because I have low standards or I�
 
 And the last point I want to make is that I really appreciate what you want for me, but I don’t need moon and stars. What I want is actually just the simple things. Like a good morning text from you always brings me so much happiness. Taking a walk with you, watching tv, eating together, having tea, watching the bugs and birds, these are the moments I really want to have with you. Again I’m gonna use my career as an example. If my goal is to become THE most successful psychologist in the field, I’m gonna be so overwhelmed and I can never live up to that standard, and eventually I might just want to quit. But if my goal is to show up consistently, put into effort everyday, and take breaks when I need, I can do this for a long time. And this is what I want for us. Not some grand gestures, just you and me, loving each other and caring for each other one day at a time, as much as we can depending on the day.
 
+
 {% comment %}
 
+https://www.lifehack.org/842966/how-to-love
 
 {% endcomment %}
