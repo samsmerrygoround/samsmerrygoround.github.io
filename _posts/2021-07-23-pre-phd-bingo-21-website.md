@@ -15,8 +15,6 @@ toc_sticky: false
 我在[隔壁贴](https://samsmerrygoround.github.io/2021/07/22/make-a-github-website.html)分享了我是如何使用 GitHub Pages 建立个人网站的。
 
 ---
-我的网站成品： [`https://samxshang.github.io/`](https://samxshang.github.io/)
-
 我的网站包括以下几部分内容：
 
 -   Homepage：展示最近的news；可能还会时不时写一些读博感悟什么的
@@ -31,6 +29,7 @@ toc_sticky: false
 希望可以给想建站的朋友们一些启发。祝大家建站快乐哦！
 
 {% comment %}
+我的网站成品： [`https://samxshang.github.io/`](https://samxshang.github.io/)
 
 
 {% endcomment %}

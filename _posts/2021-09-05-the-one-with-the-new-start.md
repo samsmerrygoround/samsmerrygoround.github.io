@@ -20,16 +20,10 @@ excerpt: 在此，萨拉米开始一段全新的旅程。
 
 我意识到过去的工作经历并不会阻碍我，而是使我丰富。除了攒下一笔小钱给自己置办了在家办公的升降桌和工学椅，更多的是心理状态方面的成长。我不再像过去那样只有学生思维，而是更有意识、也更有底气为自己的研究和行为负责。我不会一夜之间神奇地变成自己理想中的成熟科研工作者。但我会一点点摸索、一寸寸成长。这段令人期待的旅程，我邀你与我共行。:)
 
----
-最近的学术/工作进展：
-1. 完成了[读博前的二十五项准备](https://samsmerrygoround.github.io/2021/05/16/pre-phd-bingo-game-chi.html)
-2. 和硕导合作（挂名）的文章被接收了
-3. 做了一些数据统计，和博导合作（挂名）的文章投了出去
 
-Not a bad start!
+- [15 Rules to Help You Make it Through Grad School](https://economics.harvard.edu/files/economics/files/rules_for_grad_school_laura.pdf?m=1602859550)
+
 
 {% comment %}
-
-[https://economics.harvard.edu/files/economics/files/rules_for_grad_school_laura.pdf?m=1602859550]
 
 {% endcomment %}

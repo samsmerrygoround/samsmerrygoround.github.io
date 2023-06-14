@@ -56,8 +56,9 @@ toc_sticky: false
 - [Non-academic job holders interview](https://spsp.org/news-center/member-newsletters/3-22-2018/nonacademic-job-market)
 - [Unofficial Bios by psychologists](https://spsp.org/sites/default/files/psychological-scholars-unofficial-bios.pdf)
 - [InterSECT Job Simulations!](https://intersectjobsims.com/)
-
-{% comment %}
 - [Wake Careers Beyond Academia](https://graduate.wfu.edu/careers-beyond-academia/)
 - [Queens workshop](https://careers.queensu.ca/students/services-students/workshops/career-workshops)
+
+{% comment %}
+
 {% endcomment %}

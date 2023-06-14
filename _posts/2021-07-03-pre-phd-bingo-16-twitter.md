@@ -30,9 +30,8 @@ toc_sticky: false
 -   学术圈社群和泛学术圈资源：[@hapyresearchers](https://twitter.com/hapyresearchers) [@AcademicChatter](https://twitter.com/AcademicChatter) [@OpenAcademics](https://twitter.com/OpenAcademics) [@WriteThatPhD](https://twitter.com/WriteThatPhD)
 -   学术吐槽：[@AcademicsSay](https://twitter.com/AcademicsSay) [@thirdreviewer](https://twitter.com/thirdreviewer) [@YourPaperSucks](https://twitter.com/YourPaperSucks)
 
-最后欢迎大家和我在推上互关哦哈哈：[@samxshang](https://twitter.com/samxshang)
 
 {% comment %}
-
+最后欢迎大家和我在推上互关哦哈哈：[@samxshang](https://twitter.com/samxshang)
 
 {% endcomment %}

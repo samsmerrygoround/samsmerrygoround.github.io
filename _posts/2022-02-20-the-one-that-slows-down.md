@@ -31,6 +31,8 @@ excerpt: 爱自己这门课，我终于毕业了。
 
 顺便意外发现中孝介也翻唱过“[在没有雨水滋润的星球上是无法付出爱的吧](https://open.spotify.com/track/54uzeok7IH6e5Lhrm3oaq9?si=92cfabc2afbe4bbd)”。果然声音好听唱什么都好听^^。
 
+- [Lyrics](https://lyricstranslate.com/en/%E3%83%AF%E3%83%80%E3%83%84%E3%83%9F%E3%81%AE%E6%9C%A8-wadatsumi-tree.html)
+
 ## 影
 这周和姬友一起看了 *Professor Marston and the Wonder Women*，标题的 Women 真是充满深意，看得我们心满意足。
 
@@ -38,8 +40,7 @@ excerpt: 爱自己这门课，我终于毕业了。
 
 看完电影回家的路上故意没有拉大衣的拉链，因为今天穿的衬衣很喜欢，想把绿色露在外面。人生一定要做正确的选择吗？有时候明知道自己会后悔，还是要走这一条路。因为无悔不是我的目的，感受才是。
 
-{% comment %}
-Lyrics: https://lyricstranslate.com/en/%E3%83%AF%E3%83%80%E3%83%84%E3%83%9F%E3%81%AE%E6%9C%A8-wadatsumi-tree.html
 
+{% comment %}
 
 {% endcomment %}
