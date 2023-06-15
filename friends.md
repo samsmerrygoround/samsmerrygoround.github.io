@@ -10,11 +10,15 @@ Friend me：
 
 
 我喜欢的博客：
-- [June \| 六月](https://shiorireads.ca/)
-- [Pilgrimage](https://writee.org/iris-bios/)
 - [Albus's Pensieve](https://pensieve.wangxindi.org/)
+- [一笼虾饺有四个](https://fourxiajiao.github.io/)
+- [Middle of Nowhere](https://notes.midofnowhere.link/)
 
 
 {% comment %}
-
+- [李一桃 🍑](https://yitaoli2023.github.io/yitaoli/)
+- [灰色闪电⚡](https://writee.org/hui-se-shan-dian/)
+- [茶碗岛上茶包仔](https://teabagteapot.github.io/)
+- [AFTER 27](https://www.after27.me/)
+- [碎片集](https://yijinyu.life/)
 {% endcomment %}
