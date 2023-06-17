@@ -1,5 +1,5 @@
 ---
-title: The Ultimatum: Queer Love 人物分析 + 观后感
+title: The Ultimatum - Queer Love 人物分析 + 观后感
 date: 2023-06-17T03:00:00-05:00
 tags:
   - 书影乐播
