@@ -9,7 +9,7 @@ excerpt: 14部电影推荐+1部不推荐
 ---
 
 <br>
-<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/movie_rec.png" alt="me" width="600"/>
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/movie_rec.png" alt="me" width="900"/>
 <br>
 
 入坑作：[The Legend of 1900 (1998)](https://www.imdb.com/title/tt0120731/) / 海上钢琴师，是我早期观影中最喜欢的一部，第一次发现“天啊，原来电影可以这么好看”。
