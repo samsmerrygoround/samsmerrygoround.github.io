@@ -8,7 +8,7 @@ toc_sticky: true
 excerpt: They're a nation of anxious people, and they could do nothing individually. So they went mad, en masse.
 ---
 
-https://www.imdb.com/title/tt0085933/
+imdb: [Merry Christmas Mr. Lawrence](https://www.imdb.com/title/tt0085933/)
 
 今晚看了Merry Christmas, Mr. Lawrence，因为对暴力和战争主题太过抵触，对影片展现的美感也不能完全感受。
 

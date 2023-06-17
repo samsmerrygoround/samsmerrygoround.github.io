@@ -8,7 +8,7 @@ toc_sticky: true
 excerpt: Beautifully educational.
 ---
 
-https://www.imdb.com/title/tt16965198/
+imdb: [Mi vacío y yo](https://www.imdb.com/title/tt16965198/)
 
 看过 My Emptyness and I。很喜欢！非常惭愧地说，虽然作为 queer community 的一员，但我对 trans issue 了解得还是非常少，也存在很多我的局限和偏见。但这些年来我也在不断接触、不断学习、不断反思。这部影片展现了很多 trans community 需要面对的挣扎，尤其 trans straight women 在恋爱这方面真的要面对难以想象的困难甚至危险。因为有些 cis men 是真的非常暴力、无知、不安，所以才需要靠伤害别人的方式来掩饰自己的脆弱。
 

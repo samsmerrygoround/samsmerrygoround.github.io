@@ -5,10 +5,10 @@ tags:
   - 书影乐播
 toc: true
 toc_sticky: true
-excerpt: #ultimatumqueerlove 剧透预警！
+excerpt: 剧透预警！
 ---
 
-https://www.imdb.com/title/tt22326484/
+imdb: [The Ultimatum - Queer Love](https://www.imdb.com/title/tt22326484/)
 
 # E1-3 观后感
 看了前三集，总体感觉是，无论 drama 是人为创造还是真情实感，queer / or specifically queer femme 版的真人秀都比直人版好看太多了！能感觉到参与者是真的有反思、有成长的。直人版的好多就是为了 drama 而 drama，观念也都特别传统典型，就很没意思。
