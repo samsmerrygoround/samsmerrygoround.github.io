@@ -1,5 +1,5 @@
 ---
-title: S2E2 The one with all the doubts
+title: S2E6 The one with all the doubts
 date: 2023-06-04T18:00:00-05:00
 tags:
   - 读博成长记

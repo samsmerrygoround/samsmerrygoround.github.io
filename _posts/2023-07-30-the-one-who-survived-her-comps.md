@@ -1,5 +1,5 @@
 ---
-title: S2E3 The one who survived her comps
+title: S2E7 The one who survived her comps
 date: 2023-07-30T18:00:00-05:00
 tags:
   - 读博成长记
