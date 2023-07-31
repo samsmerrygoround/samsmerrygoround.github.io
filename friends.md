@@ -15,10 +15,9 @@ Friend me：
 - [Middle of Nowhere](https://notes.midofnowhere.link/)
 - [李一桃 🍑](https://yitaoli2023.github.io/yitaoli/)
 - [茶碗岛上茶包仔](https://teabagteapot.github.io/)
-
+- [灰色闪电⚡](https://writee.org/hui-se-shan-dian/)
 
 {% comment %}
-- [灰色闪电⚡](https://writee.org/hui-se-shan-dian/)
 - [AFTER 27](https://www.after27.me/)
 - [碎片集](https://yijinyu.life/)
 {% endcomment %}
