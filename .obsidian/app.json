@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "assets/images",
+  "alwaysUpdateLinks": true
 }

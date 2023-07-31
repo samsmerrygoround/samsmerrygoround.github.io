@@ -34,7 +34,7 @@ On the street I run, forward and not away from anything. That’s a different fe
 
 But this one, lol, I’m sorry for the male gaze perspective, but it’s just the funniest thing I’ve seen
 
-![[Pasted image 20230614151323.jpg]]
+![[mtl-solo-mmfa.jpg]]
 
 ---
 # 2023-02-24 植物园
@@ -47,7 +47,7 @@ But this one, lol, I’m sorry for the male gaze perspective, but it’s just th
 
 还有我终于入坑了…在礼品店买了一只仙人掌 jellycat。啊！这就是我堕落的开始！！
 
-![[Pasted image 20230614151420.jpg]]
+![[mtl-solo-plant-garden.jpg]]
 
 ---
 # 2023-02-24 天文馆
@@ -58,7 +58,7 @@ But this one, lol, I’m sorry for the male gaze perspective, but it’s just th
 
 我突然觉得天文学似乎完全是心理学的反面。我们在追求无限的向内探索，而天文学追求无限的向外探索。到了某种程度，我们却因知识的不可触碰而体验着同等的虚无。为什么我们需要获得这些知识呢？这些知识也许有用，也许并不直接有用。但我们就是想知道，想搞清楚人类本身和人类周围的一切。求知的力量真伟大啊。
 
-![[Pasted image 20230614151442.jpg]]
+![[mtl-solo-universe.jpg]]
 
 ---
 # 2023-02-24 素寿司
@@ -81,14 +81,14 @@ Oh my god everything is so good…Miso soup 应该是寿司店的下限吧，这
 
 点了蔬菜天妇罗，小盅清酒，蔬菜拉面。天妇罗好好吃，就着暖暖的清酒下胃，浑身都温暖起来。因为这家店不是专门的素食拉面店，蔬菜拉面味道就有些淡。但有一点很喜欢的细节是面的温度就是一端上来立刻可以入口的程度，不用吹，也不会觉得凉。再次感叹日式餐饮对细节的极度重视…开心的一餐！
 
-![[Pasted image 20230614151518.jpg]]
+![[mtl-solo-ramen.jpg]]
 
 ---
 # 2023-02-25 独立书店
 
 从拉面店出来在街头随便转转，刚好附近就有一家独立书店。好喜欢这家店的氛围，陈设和荐书都好合我的口味！合理怀疑店主也是姬友👀👀 逛来逛去一不小心就买了六本书…
 
-![[Pasted image 20230614151559.jpg]]
+![[mtl-solo-bookstore.jpg]]
 
 Sex Talks，作者是一位心理咨询师。教人们如何探索自己的性喜好、如何与伴侣进行与性相关沟通、如何保持性激情不灭。
 
@@ -115,7 +115,7 @@ Neuropedia，神经学与脑小百科全书，实话说封面是主要吸引力�
 
 也唱了张悬，莫文蔚，最后用一首我压箱底的 Cry Me a River 作为结束。一个人旅行最开心的就是，安排的活动都是自己最喜欢的。谢谢自己带我去唱歌，感受到了自己对自己的爱和为自己创造的浪漫~~
 
-![[Pasted image 20230614151615.jpg]]
+![[mtl-solo-kareoke.jpg]]
 
 
 {% comment %}
