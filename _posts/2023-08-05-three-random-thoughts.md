@@ -1,6 +1,6 @@
 ---
 title: 三个也许有关联的 random thoughts
-date: 2023-08-05T00:01:00-05:00
+date: 2023-08-05T01:01:00-04:00
 tags:
   - 生活进行时
 toc: true
