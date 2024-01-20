@@ -1,5 +1,5 @@
 ---
-title: Derby training （前三周）
+title: Roller derby training （前三周）
 date: 2024-01-20T15:00:00-04:00
 last_modified_at: 
 tags:
