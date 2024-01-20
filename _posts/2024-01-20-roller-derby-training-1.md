@@ -27,7 +27,7 @@ toc_sticky: false
 # week 2
 2024.01.14
 
-![[roller-derby-w2.png]]
+<img src="https://raw.githubusercontent.com/samsmerrygoround/samsmerrygoround.github.io/main/assets/images/roller-derby-w2.jpg" alt="roller-derby-w2" width="900"/>
 
 昨天这下摔得蛮狠，今天尾巴根一动都还疼得不行😇。老师人真好，反复强调不要和别人比较，这也是我反复告诉自己的。我就慢慢滑，别人一节课学了小跳跃、交叉腿，我能做到稍微跳起来、滑的时候尽量重心转移，就觉得是成功了！
 
