@@ -4,7 +4,8 @@ layout: article
 ---
 Friend me：
 - 长毛象： [merry go round](https://moresci.sale/@nerdsam)
-- Spotify: [merry go round](https://open.spotify.com/user/lzdya7z12gu1rxwffixyq36ca)
+- Letterboxd：[merrygoround24](https://letterboxd.com/merrygoround24/)
+- 看看猫：[thevoidsiblings](https://www.instagram.com/thevoidsiblings)
 
 
 我喜欢的博客：
