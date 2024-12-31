@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "f3fc635a843dbcd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4c31c8d884fb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d8264c9110cb23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-20-roller-derby-training-1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-01-20-roller-derby-training-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2820da95bd36fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a587ae76946ef82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75d4675229260e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e555c442885229d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "46a4e22718ec17b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "113931d7de57b814",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad11730372575c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d7b6dc3e607c6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "38d20f1f8ea51f3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4801911e426b70a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d07a8c79412c1ef8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "04af88e988d683a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2a3dd401c00ede3e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91d8264c9110cb23",
+  "lastOpenFiles": [
+    "_posts/2024-01-02-2024-eoy.md",
+    "_posts/2023-08-05-three-random-thoughts.md",
+    "_posts/2023-08-01-past-lives.md",
+    "_posts/2023-07-31-transformation.md",
+    "_posts/2023-07-21-reconnect.md",
+    "_posts/2023-07-20-love-thyself.md",
+    "_posts/2023-03-11-aftermath-2.md",
+    "_posts/2023-05-20-soulmate-3.md",
+    "_posts/2023-06-14-you-are-not-a-burden.md",
+    "_posts/2023-06-07-how-to-love-a-beautiful-thing.md",
+    "_oldpost/2023-06-07-how-to-love-a-beautiful-thing.md",
+    "_posts/2023-04-08-poly-baby-struggles.md",
+    "_posts/2023-04-19-self-compassion-in-relationship.md",
+    "_posts/2023-03-26-three-reasons-to-be-with-you.md",
+    "_posts/2023-03-19-poly-intro.md",
+    "_posts/2022-12-22-aftermath-1.md",
+    "_posts/2022-12-20-2022-eoy.md",
+    "_posts/2022-12-15-the-chair.md",
+    "_posts/2022-11-09-break-up.md",
+    "_posts/2022-05-28-kingston.md",
+    "_posts/2022-06-20-you-are-the-one.md",
+    "_posts/2022-05-27-personality-change.md",
+    "_posts/2022-05-26-humans-i-like.md",
+    "_posts/2022-05-13-meaning-in-life.md",
+    "_posts/2021-11-02-meet-cute.md",
+    "_oldpost/2024-01-12-the-one-who-reluctantly-moves.md",
+    "_oldpost",
+    "assets/images/Pasted image 20240723090701.png",
+    "assets/images/2024-04-14-alaa.jpeg",
+    "assets/images/2024-04-05-declutter.jpeg",
+    "assets/images/2024-04-03-declutter.jpeg",
+    "assets/images/2024-04-02-declutter-day1.jpeg",
+    "assets/images/2024-04-02-declutter-map.jpeg",
+    "assets/images/2024-04-27-meet.jpeg",
+    "assets/images/2024-04-30-kiss.jpeg",
+    "assets/images/2024-04-30-sofa.jpeg",
+    "assets/images/2024-05-03-tom.jpeg",
+    "_daily",
+    "brain notes",
+    "_includes/search-providers/google-custom-search-engine",
+    "_includes/pageview-providers/leancloud",
+    "_includes/pageview-providers/custom",
+    "_includes/search-providers/default",
+    "_includes/search-providers/custom",
+    "_includes/markdown-enhancements",
+    "_sass/skins/highlight/tomorrow"
+  ]
+}
