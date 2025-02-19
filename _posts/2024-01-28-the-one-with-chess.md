@@ -3,7 +3,6 @@ title: S3E4 The one with Chess
 date: 2024-01-28T19:00:00-05:00
 tags:
   - 读博成长记
-  - 生活进行时
 toc: true
 toc_sticky: false
 excerpt: One of those days...one of those weeks?
